@@ -118,10 +118,19 @@ In scope: freestanding load-bearing walls, non-loadbearing infill materials, fur
  - [ ] Control joints are recommended to assure cracking will not cause failure in earthen walls which are not cement/lime stabalised.
  - [ ] Low density adobe and cob (800-1400kg/m3 are to be coated with hydrated lime plaster.
 
+## Poured earth and in-situ adobe (portland cement reinforced)
+ - [ ] p.53
+
 ### Earthen mortar joints
  - [ ] Sand + lime + portland cement = 9:2:1 to 9:3:0 ratio; mechanically mixed, slump tested and laid in 10-20mm thick beds.
  - [ ] Sand and clay earthen mortars must be trial tested and quality controlled during production, pressing/ramming and laid in 15-35mm thick beds.
  - [ ] There should be no internal voids in mortar courses.
+
+### Earthen surface coatings and reinforcements
+ - [ ] p.60
+
+### Earthen construction maitenance
+ - [ ] p.76
 
 # References
   - NZS 4298 (2020) Materials and construction for earth buildings
