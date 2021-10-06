@@ -22,11 +22,11 @@ Civil and structural engineering solutions for earthen loadbearing _unfired_ wal
  - [ ] earthen materials larger than gravel (+20mm diameter), other than screened/caged road surface rocks.
  - [ ] any builder who does not utilise the required on-site tests (and maintain a 'quality control' record) for production of earthen componets.
 
-### Terminology (mathematically defined):
+### Terminology (quantitatively defined):
  - flexure tensile strength aka modulus of rupture = average of 10-50% of compressive strength, e.g. stabalised adobe should have 30% or 3.5x flexural tensile strength.  Laboratory tests should be utilsed if on-site testing is inconslusive.
  - duration / durable = 
- - erosion =
- - permeance / permeability = 
+ - erosion = erosion bore hole test and erodibility of geomaterial testing.
+ - permeance / permeability = coefficient of 
  - shrinkage - can take place for extended periods up to six months.
 
 # Quality control
