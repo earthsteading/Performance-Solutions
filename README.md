@@ -186,7 +186,7 @@ In scope: freestanding load-bearing walls, non-loadbearing infill materials, fur
   - Hesperia California, CalEarth institute, Nader Khalili
   - National Building Technology Centre (CSIRO)
   - Austrealian Building Code Board (ABCB)
-  - Earth Building Association of New Zealand (EBANZ)
+  - Earth Building Association of NZ
   - Earth Building Assocation of Australia
   - International Building Code, USA
   - Metropolitan Board of Works, UK.
