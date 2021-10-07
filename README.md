@@ -1,10 +1,12 @@
-In the sprit of reconciliation Earthsteading acknowledges the significant contribution of Indigenous culturals worldwide who  have pioneered the use and adoption of earthen materials in building construction.  We pay our respect to the traditional custodians of country throughout Australia; to their elders past and present and extend that respect to all Aborriginal and indigenous peoples worldwide.  Please see references at the bottom of this page for contributions to this tradition.
+# Checklists for earthen wall construction inspection
+  - In the sprit of [reconciliation](https://nrw.reconciliation.org.au/actions-for-reconciliation/) Earthsteading acknowledges the significant contribution of Indigenous culturals worldwide who have pioneered the use and adoption of earthen materials in building construction.  We pay our respect to the traditional custodians of country throughout Australia; to their elders past and present and extend that respect to all Aborriginal and indigenous peoples worldwide.  Please see references at the bottom of this page for contributions to this tradition.
+  - This repository was created as part of Federation University Building Surveyor Advanced Diploma assessment project (2020).
 
 # Performance-solutions for earthen construction
 Civil and structural engineering solutions for earthen loadbearing _unfired_ walls, including:
   - [x] Rammed earth aka pisé de terre (formwork & tyre casing)
   - [x] Adobe brick and cob walls (low-density & high-density earth)
-  - [x] SuperAdobe cement stabilised
+  - [x] SuperAdobe(TM) cement stabilised
   - [x] Straw-bale earthen rendered walls
   - [x] Hemp-crete blocks and walls
   - [x] Poured and light earth methods
@@ -23,10 +25,10 @@ Civil and structural engineering solutions for earthen loadbearing _unfired_ wal
  - [ ] any builder who does not utilise the required on-site tests (and maintain a 'quality control' record) for production of earthen componets.
 
 ### Terminology (quantitatively defined):
- - flexure tensile strength aka modulus of rupture = average of 10-50% of compressive strength, e.g. stabalised adobe should have 30% or 3.5x flexural tensile strength.  Laboratory tests should be utilsed if on-site testing is inconslusive.
- - duration / durable = 
+ - flexure tensile strength aka modulus of rupture = if all materials are homogenous then all fibers in the material are the same stress and failure will intiate when the weakest fiber reaches it's limiting tensile stress.
+ - load capacity reduction factor = ratio of the bearing capacity against eccentric loading and central loading.  Divide the value of the elastic strength by the yield strength which yields the R factor.
  - erosion = erosion bore hole test and erodibility of geomaterial testing.
- - permeance / permeability = coefficient of 
+ - permeance / permeability = coefficient of hydrophilic material.
  - shrinkage - can take place for extended periods up to six months.
 
 # Quality control
@@ -177,4 +179,16 @@ In scope: freestanding load-bearing walls, non-loadbearing infill materials, fur
  - [ ] Onsite humidity sensors should be utilsed throughout the life of the building.
 
 # References
-  - NZS 4298 (2020) Materials and construction for earth buildings
+  - Aboriginal earth homes have a clearly documented history thanks to the European settlers who first came to the country, where they rode horses over the clay earthen home of Aboriginals to demonstrate their structural reliability.
+  - Adobe was the primary building material of the Puebloan and Anisaze peoples, and earthen structures were recognised by the US government as a more cost effective means of building homes than timber.
+  - Worldwide over 3 billion people live in earthen homes who have iterated the above methods over millenia.
+  - Organisations who have formalised Indigenous earth building testing methods include:
+  - Toas New Mexico, Earthship Academy, Michael Reynolds
+  - Hesperia California, CalEarth institute, Nader Khalili
+  - National Building Technology Centre (CSIRO)
+  - Austrealian Building Code Board (ABCB)
+  - Earth Building Association of New Zealand (EBANZ)
+  - Earth Building Assocation of Australia
+  - International Building Code, USA
+  - Metropolitan Board of Works, UK.
+ 
