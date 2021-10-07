@@ -32,7 +32,7 @@ Civil and structural engineering solutions for earthen loadbearing _unfired_ wal
  - shrinkage - can take place for extended periods up to six months.
 
 # Quality control
-All production of earthen materials and compoents must have a written plan for batching, recording and evaluating their quality and consistency, especially for ratios of earth, eater and admixtures for load-bearing walls.
+All production of earthen materials and compoents must have a written plan for batching, recording and evaluating their quality and consistency, especially for ratios of earth, clay and admixtures for load-bearing walls.
 
 ## Testing requirements
 The following sets of tests are referenced for earthen materials.  Test samples should have between 3-5% moisture content and be dried/cured at temperatures below 69°C for a minimum of 30 days.  A minimum of 7 samples should be used in testing.
