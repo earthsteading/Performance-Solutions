@@ -13,6 +13,11 @@ Terminology (strongly typed):
   - [ ] ϵ (epsilon) = dimensionless factor
   - [ ] φ = load capacity reduction factor
 
+Tests:
+ - [x] compression test = 1.9f(e) compression strength and a flexural tensile strength of 2.1 f(et).
+ - [x] lateral strain/rigidity = resistence to wind/earth action forces resisting 20-28kN/m at 5% strain.
+ - [x] tolerances = all materials and build measurements must be within +/-10mm
+
 ## Ball test of clay content for mortar
 A field test for the following types of earthn walls: unstabalised adobe, cob, light earth material and/or earth plaster
   - [ ] form earth material into a ball with a 15-20mm diameter (create +5x balls for curing tests);
