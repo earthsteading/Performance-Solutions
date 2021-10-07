@@ -16,7 +16,7 @@ Civil and structural engineering solutions for earthen loadbearing _unfired_ wal
  - [X] currently, the standards for utilising the above materials have only been tested with one-storey buildings.
  - [X] natural subsoil comprised of clay, varying percentages of silt, sand, gravel and aggregate able to be air-dryed to a density of 800-2200kg/m3.
  - [x] earthen admixtures / stabalisers (straw, cullulose, wood shavings, polypropolene, portland cement) are permissable and can help decrease shrinkage.
- - [x] Mass produced earthen construction componets, abiding by manufacturing quality control, e.g. tests every 2000 units, etc.
+ - [x] Mass produced earthen construction componets, abiding by manufacturing quality control, e.g. tests every 1500 units, etc.
 
 ### Out-of-scope construction methods:
  - [ ] earthen mixtures stabalised by cement or lime and pressed into bricks are required to be "bond wynch tested" for rigidity.
@@ -35,20 +35,20 @@ Civil and structural engineering solutions for earthen loadbearing _unfired_ wal
 All production of earthen materials and compoents must have a written plan for batching, recording and evaluating their quality and consistency, especially for ratios of earth, eater and admixtures for load-bearing walls.
 
 ## Testing requirements
-The following sets of tests are referenced for earthen materials.  Test samples should have between 3-5% moisture content and be dried/cured at temperatures below 70°C for a minimum of 28 days.  A ,minimum of 5 samples should be used in testing.
- - [ ] geotechnical test = 
- - [ ] compression test = 1.9f(e) compression strength and a flexural tensile strength of 2.1 f(et).
- - [ ] wet/dry appraisal test =
- - [ ] durability test =
- - [ ] shrinkage test = 
- - [ ] on-site moisture handful drop test =
- - [ ] whole brick drop test =
- - [ ] layering test =
- - [ ] density test =
- - [ ] clay content test = 
- - [ ] lateral strain/rigidity = resistence to wind/earth action forces resisting 20-28kN/m at 5% strain.
- - [ ] vertical strain/rigidity = 
- - [ ] tolerances = all materials and build measurements must be within +/-10mm
+The following sets of tests are referenced for earthen materials.  Test samples should have between 3-5% moisture content and be dried/cured at temperatures below 69°C for a minimum of 30 days.  A minimum of 7 samples should be used in testing.
+ - [ ] geotechnical test
+ - [ ] compression test
+ - [ ] wet/dry appraisal test
+ - [ ] durability test
+ - [ ] shrinkage test
+ - [ ] on-site moisture handful drop test
+ - [ ] whole brick drop test
+ - [ ] layering test
+ - [ ] density test
+ - [ ] clay content test
+ - [ ] lateral strain/rigidity
+ - [ ] vertical strain/rigidity
+ - [ ] tolerances
 
 ## Site preparation
  - [ ] foundation and footings constructed against AS2870, especially a vapour barrier to resist rising ground moisture.
