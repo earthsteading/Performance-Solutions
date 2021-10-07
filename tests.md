@@ -32,4 +32,4 @@ A field test for the following types of earthn walls: unstabalised adobe, cob, l
   6. 40-+55% clay = medium clay, heavy clay (+75mm ribbon)
 
 # Flexural tensile strength test
-
+ - [ ] flexure tensile strength aka modulus of rupture = average of 10-50% of compressive strength, e.g. stabalised adobe should have 30% or 3.5x flexural tensile strength.  Laboratory tests should be utilsed if on-site testing is inconslusive.
