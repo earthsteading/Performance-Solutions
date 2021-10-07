@@ -146,9 +146,6 @@ In scope: freestanding load-bearing walls, non-loadbearing infill materials, fur
  - [ ] Internal earthen walls must be protected in wet areas (bathroom, laundry, kitchen, atriums, etc.) as per AS3740.
  - [ ] All internal earthen walls require good ventilation as earth walls are hygroscopic / breathable.
 
-## LEM and straw bale wall
-  - [ ] the permeable water vapour coating is essential to maintain hygroscopic breathability of a cellulose wall.
-
 ### Earthen mortar joints
  - [ ] Sand + lime + portland cement = 9:2:1 to 9:3:0 ratio; mechanically mixed, slump tested and laid in 10-20mm thick beds.
  - [ ] Sand and clay earthen mortars must be trial tested and quality controlled during production, pressing/ramming and laid in 15-35mm thick beds.
