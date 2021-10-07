@@ -1,9 +1,23 @@
-# Field tests for 
+# Field tests for earthen construction
+All earthen construction requires both (alpha) in-situ field tests and externally validated (beta) lab testing to assure your structure will stand the test of time. Please make yourself aware of the [significant risks for earthen wall construction](https://github.com/earthsteading/contracting-procedures/blob/main/ohs.md) including fatalities via suffocation via collapsed earthen walls.
+
+Terminology (strongly typed):
+  - [ ] α (alpha) = first in situ field test
+  - [ ] β (beta) = second iterative lab test
+  - [ ] characteristic strength value / factor
+  - [ ] relative cumulative frequency distribution
+  - [ ] abnormal test results
+  - [ ] sample test results
+  - [ ] σ (sigma) = standard deviation
+  - [ ] δ () = coefficient of varation 
+  - [ ] ϵ (epsilon) = dimensionless factor
+  - [ ] φ = load capacity reduction factor
 
 ## Ball test of clay content for mortar
 A field test for the following types of earthn walls: unstabalised adobe, cob, light earth material and/or earth plaster
-  - [ ] form earth material into a ball with a 15-20mm diameter;
-  - [ ] allow the ball to dry, assure ball does not crack;
+  - [ ] form earth material into a ball with a 15-20mm diameter (create +5x balls for curing tests);
+  - [ ] allow the 5x sample earthen balls to dry in situ;
+  - [ ] once ball is cured, inspect the ball with high definition video checking that no significant cracks have developed;
   - [ ] attempt crush th ball between thumb and forefinger (thumb at bottom);
   - [ ] if ball resists, then clay mix ready for lab test;
   - [ ] if ball crushes then clay content is too low or silt content to high, adjust and repeat test.
@@ -18,3 +32,4 @@ A field test for the following types of earthn walls: unstabalised adobe, cob, l
   6. 40-+55% clay = medium clay, heavy clay (+75mm ribbon)
 
 # Flexural tensile strength test
+
