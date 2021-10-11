@@ -13,6 +13,7 @@ Civil and structural engineering solutions for earthen loadbearing _unfired_ wal
   - [x] Hemp-crete blocks and walls
   - [x] Poured and light earth methods
   - [x] Earthen surface coatings, e.g. straw light clay, slaked/hdyrated lime, lime puttty grout, tadelakt, etc
+  - [x] [Bushfire building protection, e.g. remote controlled wall wetting sprinklers, bushfire shutters](https://github.com/earthsteading/performance-solutions/blob/main/bushfire.md)
 
 ### In-Scope construction methods: 
  - [X] currently, the standards for utilising the above materials have only been tested with one-storey buildings.
