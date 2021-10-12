@@ -1,3 +1,5 @@
+<meta name="robots" content="noindex"> 
+
 # Earthen material standards
 For each of the below earthen construction componets, a performance solution should be agreed between your builder, architect, engineer and building surveyor prior to applying for a build permit.
 
