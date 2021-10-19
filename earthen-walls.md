@@ -8,6 +8,10 @@ In scope:
  - [ ] formwork walls
  - [ ] brick and tyre encased, both for load-bearing and non-loadbearing internal and external walls.
 
+Out of scope:
+ - [ ] multi-storey unless via engineered Performance Solution
+ - [ ] earthquake and fire safety (not yet tested)
+
 Structural integrity robustness checks:
  - [ ] If using internally reinforced steel, then use of conduits (vs plastic) is recommeneed to avoid cracking during shrinkage and enables the vertical rod to be post-tensioned.
  - [ ] Rammed earth can be used without stabalisation however use of portland cement to provide structural durability is recommended for walls built using formwork vs earthen bricks.  Rammed earth walls should be tested on site prior to approval.
