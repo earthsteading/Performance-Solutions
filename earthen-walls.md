@@ -1,16 +1,22 @@
 <meta name="robots" content="noindex"> 
 
-# Earthen material standards
+# Earthen material inspector checklists
 For each of the below earthen construction componets, a performance solution should be agreed between your builder, architect, engineer and building surveyor prior to applying for a build permit.
 
 ## Rammed earth (formwork + tyre encased)
-In scope: formwork walls, brick and tyre encased, both for load-bearing and non-loadbearing internal and external walls.
+In scope: 
+ - [ ] formwork walls
+ - [ ] brick and tyre encased, both for load-bearing and non-loadbearing internal and external walls.
+
+Structural rubstness checks:
  - [ ] If using internally reinforced steel, then use of conduits (vs plastic) is recommeneed to avoid cracking during shrinkage and enables the vertical rod to be post-tensioned.
  - [ ] Rammed earth can be used without stabalisation however use of portland cement to provide structural durability is recommended for walls built using formwork vs earthen bricks.  Rammed earth walls should be tested on site prior to approval.
  - [ ] Moisutre content for rammed earth mix must be within a 3% band of the optimum moisture content, see testing methods above.
  - [ ] Acceptable compaction tests can be determined by a 6.5kg hammer being dropped 300mm onto a rammed earth layer of 100-150mm thickness and the resulting "rings" resisting indentation.
  - [ ] For rammed earthed pressed bricks, cement is often used as a stabaliser.  Compression of bricks should be via a hydraulic power compression ram or manual long lever arm to activate a rammed compression chamber.
  - [ ] Clay and other earthen materials used from on-site should be geotechnically tested.
+
+Quality assurance checks:
  - [ ] Mechanical ramming is recommended, however manual hand ramming is acceptable especially in hard to reach areas.
  - [ ] Cold joints should be rougheded to an amplitude of 5mm including clearing the old surface with water to restablish a new bond.  NB checmical keying compounds have also been used.
  - [ ] For cement stabalised rammed earth, all of the mixed batch shall be placed within 45 minutes of cement first coming in contact with the water or damp earth.
