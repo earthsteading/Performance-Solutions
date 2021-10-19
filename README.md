@@ -1,7 +1,7 @@
 <meta name="robots" content="noindex"> 
 
 # Checklists for earthen wall construction inspection
-  - In the spirit of [reconciliation](https://nrw.reconciliation.org.au/actions-for-reconciliation/) Earthsteading acknowledges the significant contribution of Indigenous culturals worldwide who have pioneered the use and adoption of earthen materials in building construction.  We pay our respect to the traditional custodians of country throughout Australia; to their elders past and present and extend that respect to all Aborriginal and indigenous peoples worldwide.  Please see references at the bottom of this page for contributions to this tradition.
+  - In the spirit of [reconciliation](https://nrw.reconciliation.org.au/actions-for-reconciliation/) Earthsteading acknowledges the significant contribution of Indigenous culturals worldwide who have pioneered the use and adoption of earthen materials in building construction.  We pay our respect to the traditional custodians of country throughout Australia; to their elders past and present and extend that respect to all Aboriginal and Indigenous peoples whopioneered earthen buildings worldwide.  Please see references at the bottom of this page for contributions to this tradition.
   - This repository was created as part of Federation University Building Surveyor Advanced Diploma earthen build project (2020).
 
 # Performance-solutions for earthen construction
