@@ -4,15 +4,10 @@
 For each of the below earthen construction componets, a performance solution should be agreed between your builder, architect, engineer and building surveyor prior to applying for a build permit.
 
 ## Rammed earth (formwork + tyre encased)
-In scope: 
- - [ ] formwork walls
- - [ ] brick and tyre encased, both for load-bearing and non-loadbearing internal and external walls.
+ - [x] in-scope: formwork walls, brick and tyre encased, both for load-bearing and non-loadbearing internal and external walls.
+ - [ ] out-of-scope: multi-storey unless via engineered 'Performance Solution' (ABCB), earthquake and fire safety (not yet tested)
 
-Out of scope:
- - [ ] multi-storey unless via engineered Performance Solution
- - [ ] earthquake and fire safety (not yet tested)
-
-Structural integrity robustness checks:
+### Structural integrity robustness checks:
  - [ ] If using internally reinforced steel, then use of conduits (vs plastic) is recommeneed to avoid cracking during shrinkage and enables the vertical rod to be post-tensioned.
  - [ ] Rammed earth can be used without stabalisation however use of portland cement to provide structural durability is recommended for walls built using formwork vs earthen bricks.  Rammed earth walls should be tested on site prior to approval.
  - [ ] Moisutre content for rammed earth mix must be within a 3% band of the optimum moisture content, see testing methods above.
@@ -20,7 +15,7 @@ Structural integrity robustness checks:
  - [ ] For rammed earthed pressed bricks, cement is often used as a stabaliser.  Compression of bricks should be via a hydraulic power compression ram or manual long lever arm to activate a rammed compression chamber.
  - [ ] Clay and other earthen materials used from on-site should be geotechnically tested.
 
-Quality assembly assurance checks:
+### Quality assembly assurance checks:
  - [ ] Mechanical ramming is recommended, however manual hand ramming is acceptable especially in hard to reach areas.
  - [ ] Cold joints should be rougheded to an amplitude of 5mm including clearing the old surface with water to restablish a new bond.  NB checmical keying compounds have also been used.
  - [ ] For cement stabalised rammed earth, all of the mixed batch shall be placed within 45 minutes of cement first coming in contact with the water or damp earth.
@@ -33,7 +28,10 @@ Quality assembly assurance checks:
  - [ ] Surface finishes of earthen rammed walls should be considered by architect and engineer as part of the deisgn schematic, including: rough, smooth, pebble, flat, colour, etc.
 
 ## Adobe bricks and cob walls
-In scope: freestanding load-bearing walls, non-loadbearing infill materials, furniture, etc.
+  - [x] In scope: freestanding load-bearing walls, non-loadbearing infill materials, furniture, etc.
+  - [ ] Out of scope: multi-storey (up to 3 storey with ABCB Performance Solution), earthquake and fire (not yet tested).
+
+### Quality assurance assessment checks:
  - [ ] Earth and straw for cob mixing (mechanical or rotary hoe) should be left for a 12 hour soak after initial mix, and remixed prior to placing. 
  - [ ] Brick size should be a minimum of 280mm nominal thckness for thermal and structural performance.  Brick size may and should vary to enable bonding around corners, curves and overlapping bond walls.
  - [ ] Sand or straw may be added to control drying thereby allowing the interior of the brick to dry at the same rate as the exterior which will help prevent cracking.  Straw and cellulose natural fibres should be cut to 1/2 the size of the brick/wall and added to the mix evenly.  Portland cement as an additive is also often used.
@@ -42,6 +40,8 @@ In scope: freestanding load-bearing walls, non-loadbearing infill materials, fur
  - [ ] A curing process must be undertaken to assure water evaporation is limited for cracking during shrinkage.
  - [ ] After curing bricks should be laid on their side, scraped and tapped producing a 'clear ring'.
  - [ ] Cores for vertical reinforcement or service conduit may be drilled or moulded.  Holes shall be centerd in the brick and less than 1/3 the size of the brick.
+
+### Structural integrity robustness checks:
  - [ ] There should be no more than 4 layers of brick laid per day to assure mortar thickness (>60mm) can stabalise per day.
  - [ ] Bricks should be laid in an overlapping bond pattern with a minimum overlap of 25%.  English, flemish, garden and stetcher bond patterns are allowed as per AS3700.
  - [ ] All brick surfaces shall be moistened before laying to reduce mortar shrinkage.
@@ -54,6 +54,16 @@ In scope: freestanding load-bearing walls, non-loadbearing infill materials, fur
  - [ ] Low density adobe and cob (800-1400kg/m3 are to be coated with hydrated lime plaster.
 
 ## Poured earth and in-situ adobe (portland cement reinforced)
+
+ - [ ] in scope: formwork walls, bag/encased adobe (aka SuperAdobe), 
+ - [ ] out of scope:
+
+
+### Structural integrity robustness checks:
+### Quality assurance assessment checks:
+
+
+
  - [ ] Sample test walls should be tested prior to building permit being issued, with confirmation of flexural tensile strength.
  - [ ] The below methods use 5-15% of portland cement in mixes to reduce shrinkage and enhance strength, without cement see boxed cob standards above. Hydrated/quick lime may also be used as a stabalisation additive for performance solutions.
  - [ ] Poured earth is moulded into formwork panels, and are poured as castellated patterns.
