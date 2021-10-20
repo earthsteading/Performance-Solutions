@@ -54,40 +54,38 @@ For each of the below earthen construction componets, a performance solution sho
  - [ ] Low density adobe and cob (800-1400kg/m3 are to be coated with hydrated lime plaster.
 
 ## Poured earth and in-situ adobe (portland cement reinforced)
-
  - [ ] in scope: formwork walls, bag/encased adobe (aka SuperAdobe), 
- - [ ] out of scope:
-
+ - [ ] out of scope: earthquake stable and fire safety (FRL) <-- not yet tested, contact earthsteading at gmail dot com
 
 ### Structural integrity robustness checks:
-### Quality assurance assessment checks:
-
-
-
  - [ ] Sample test walls should be tested prior to building permit being issued, with confirmation of flexural tensile strength.
- - [ ] The below methods use 5-15% of portland cement in mixes to reduce shrinkage and enhance strength, without cement see boxed cob standards above. Hydrated/quick lime may also be used as a stabalisation additive for performance solutions.
- - [ ] Poured earth is moulded into formwork panels, and are poured as castellated patterns.
- - [ ] Earth formwork varies widely in dimensions and is provided by a variety of proprietary systems.
+ - [ ] The below methods use 5-15% of portland cement in mixes to reduce shrinkage and enhance strength, without cement see boxed cob standards. Hydrated/quick lime may also be used as a stabalisation additive for performance solutions.
  - [ ] Wall panels should not exceed sizes (450mm high or 800mm long), unless tested.
  - [ ] In-situ adobe utilises stablised cement and is placed in brick layers allowing them to set and shrink prior to next layer being laid.  Bonding between courses is required.
- - [ ] Mixes require clay to enable molding (before cement hydration), while containing aggregate to prevent shrinking.
  - [ ] Surface cracks can be filled if there is no loss of structural integrity.
- - [ ] Soils should be soaked 12 hours before molding, with cement added just in time for mixing and placement.
- - [ ] Clay lumps +12mm should be exluded from mix.  Aggregate size should not exceed 25mm diameter.  Use of sieving or pulvarising is acceptable.  Sand and water can be used to assure mix is low moisture but still pliable.
- - [ ] Molds should be vibrated, rodded, tamped to assure no voids in mix.
  - [ ] Once poured, top of mold should be roughened to a minimum 5mm amplitude to key bond for subsequent courses.
  - [ ] Reinforcement between layers should be at 450mm centres for mesh reinforcement and 900mm centres for steel bar reinforcement.  Wet embedded geogrid between courses as per proprietary systems like SuperAdobe(TM).
  - [ ] Previous coursers should be wetted prior to adding a new course layer.
  - [ ] No more than 450mm courses should be laid per day to assure drying and curing process is initiated.
- - [ ] If slumping, deformation or damage is noticed then further curing is required to achieve structural rigidity.
  - [ ] Corners and abutting walls should be bonded into wall by a 100mm bond.
  - [ ] The wall should be moist cured by spraying with a concrete curing agent, or covered with plastic/fabric to retain moisture for 7 days prior to being allowed to dry.  Wall should be protected from sun/wind while curing.
+ - [ ] Internal earthen walls must be protected in wet areas (bathroom, laundry, kitchen, atriums, etc.) as per AS3740.
+ - [ ] All internal earthen walls require good ventilation as earth walls are hygroscopic / breathable.
+
+### Quality assurance assessment checks:
+ - [ ] Poured earth is moulded into formwork panels, and are poured as castellated patterns.
+ - [ ] Earth formwork varies widely in dimensions and is provided by a variety of proprietary systems.
+ - [ ] Mixes require clay to enable molding (before cement hydration), while containing aggregate to prevent shrinking.
+ - [ ] Soils should be soaked 12 hours before molding, with cement added just in time for mixing and placement.
+ - [ ] Clay lumps +12mm should be exluded from mix.  Aggregate size should not exceed 25mm diameter.  Use of sieving or pulvarising is acceptable.  Sand and water can be used to assure mix is low moisture but still pliable.
+ - [ ] Molds should be vibrated, rodded, tamped to assure no voids in mix.
+ - [ ] If slumping, deformation or damage is noticed then further curing is required to achieve structural rigidity.
  - [ ] Service conduit holes can be molded into formwork and/or drilled after curing.
  - [ ] Surface coatings are not required but are often utilised for maitenance, serviceability and aesthetics.
  - [ ] Examples of permeable wall coatings: earth+lime+gypsum, lime based paint, lime plasters, potasium silicate, boiled linseed oil, plaster with silicate mineral paint, etc.  Non-permeable coatings (>290ng/Pa.s.m2) can trap moisture in the wall resulting in structural cracking, e.g. cement stucco without lime should not be used.  Coastings which decrease earthen erosion by helping to maintain bond is the aim (+500 ng/Pa.s.m2).
  - [ ] Dust reducing coatings (internal walls): for wallpaper diluted casein-borax glue or cullulose glue, clay based paints, lime based whitewash, potasium silicate mineral paint, gypsum plasters, lime plasters and bagging / scrubbing walls with organic additives.
- - [ ] Internal earthen walls must be protected in wet areas (bathroom, laundry, kitchen, atriums, etc.) as per AS3740.
- - [ ] All internal earthen walls require good ventilation as earth walls are hygroscopic / breathable.
+
+## Earthen Wall Maitenance
 
 ### Earthen mortar joints
  - [ ] Sand + lime + portland cement = 9:2:1 to 9:3:0 ratio; mechanically mixed, slump tested and laid in 10-20mm thick beds.
@@ -109,7 +107,7 @@ For each of the below earthen construction componets, a performance solution sho
 ### Earthen reinforcement
   - [ ] Extruded polypropolene mesh must have a minimum weight of 70g/m2 and a min tensile strength of 4.5kN/m in logitudal and transverse directions.
   - [ ] Fibreglass mesh shall be alkaline resistent with a minimum density of 60g/m2 for interior walls and 160g/m2 for exterior walls and minimum mesh size of 8mm.
-  - [ ] Galvanised steel mesh should only be used in cement (low lime) mixes to avoid steel corrosion.  Chicken wire is commonly used for steel mesh reinforcing between layers (diameter 0.7-1.0mm aka 19-22 gauge with hexagonal gaps >25mm and 150mm lapped joints).  Chicken wired used for custom curves and angled surfaces.  
+  - [ ] Galvanised steel mesh should only be used in cement (low lime) mixes to avoid steel corrosion.  Chicken wire is commonly used for steel mesh reinforcing between layers (diameter 0.7-1.0mm aka 19-22 gauge with hexagonal gaps >25mm and 150mm lapped joints).  'Chicken wire' used for custom curves and angled surfaces.  
   - [ ] Staples should be placed diagonally across reinforcement mesh, e.g. exterior wall staples should be pneumatically drives with 1.29mm diamter (16 gauge) with 38mm legs and 11mm crown).
   - [ ] Steel mesh shall be seperated from preservative treated timber by a damp proof layer.
 
