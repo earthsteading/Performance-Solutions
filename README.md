@@ -14,6 +14,7 @@ Civil and structural engineering solutions for earthen loadbearing _unfired_ wal
   - [ ] Poured and light earth methods
   - [x] [Earthen surface coatings, e.g. straw light clay, slaked/hdyrated lime, lime puttty grout, tadelakt, etc](https://github.com/earthsteading/performance-solutions/blob/main/earthen-walls.md#external-earthen-surface-coatings)
   - [x] [Bushfire building protection, e.g. remote controlled wall wetting sprinklers, bushfire shutters](https://github.com/earthsteading/performance-solutions/blob/main/bushfire.md)
+  - [ ] [Lightweight timber structures aka geodesic domes](https://youtu.be/7mt8fxMfGA4)
 
 ### In-Scope construction methods: 
  - [X] currently, the standards for utilising the above materials have only been tested with one-storey buildings.
