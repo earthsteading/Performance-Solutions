@@ -100,3 +100,7 @@ Notes from webinar:
     Housing developers being required to build “Asset Protection Zone” in neighborhoods (APZ), e.g. parks, playgrounds, waterways, etc.
 
 ## References
+
+References:
+ - [ ] https://www.cfa.vic.gov.au/ArticleDocuments/342/FIRE%20READY%20KIT_2021-WEB.pdf.aspx?Embed=Y
+ - [ ] https://www.cfa.vic.gov.au/ArticleDocuments/335/Your%20Guide%20to%20Survival%20V5.pdf.aspx?Embed=Y
