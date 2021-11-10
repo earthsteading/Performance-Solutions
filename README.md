@@ -9,7 +9,7 @@ Civil and structural engineering solutions for earthen loadbearing _unfired_ wal
   - [x] [Rammed earth aka pisé de terre (formwork & tyre casing)](https://github.com/earthsteading/performance-solutions/blob/main/earthen-walls.md#rammed-earth-formwork--tyre-encased)
   - [x] [Adobe brick and cob walls (low-density & high-density earth)](https://github.com/earthsteading/performance-solutions/blob/main/earthen-walls.md#adobe-bricks-and-cob-walls)
   - [ ] SuperAdobe(TM) cement stabilised
-  - [ ] Straw-bale earthen rendered walls
+  - [ ] [Straw-bale earthen rendered walls](https://github.com/earthsteading/performance-solutions/blob/main/straw-bale-wall-structures.md)
   - [ ] Hemp-crete blocks and walls
   - [ ] Poured and light earth methods
   - [x] [Earthen surface coatings, e.g. straw light clay, slaked/hdyrated lime, lime puttty grout, tadelakt, etc](https://github.com/earthsteading/performance-solutions/blob/main/earthen-walls.md#external-earthen-surface-coatings)
