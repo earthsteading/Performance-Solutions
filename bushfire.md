@@ -1,3 +1,15 @@
+# Fire safety for off-grid structures
+
+Table of contents:
+ - [x] Request for excepmption to fire code via chief officer fire brigade
+ - [x] AS3059 for evaluating bushfire risk to structure
+ - [ ] References  
+
+## Exception to fire code Regulation 129
+https://www.frv.vic.gov.au/sites/default/files/2020-07/FRV%20Application%20for%20Report%20and%20Consent%20to%20Regulation%20129%20%28July%202020%29_0.pdf
+
+
+## Bushfire safety measures shutters and sprinklers
 Notes from webinar: Bushfire Attack Levels and Lessons Learned from 2020 fires via Standard AS3959
 Updated automatically every 5 minutes
 
@@ -86,3 +98,5 @@ Notes from webinar:
     Should all garages be non-combustible with ember protection and pathway perimeters?
     How can building owners be made aware of maintenance to assure the standard?  Development of a new “BAL Rating Compliance Table”?
     Housing developers being required to build “Asset Protection Zone” in neighborhoods (APZ), e.g. parks, playgrounds, waterways, etc.
+
+## References
