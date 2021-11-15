@@ -84,3 +84,5 @@ The following sets of tests are referenced for earthen materials.  Test samples 
 # References 
  - [x] Reference link to this page: https://earthsteading.limited/earthen-engineering
  - [ ] https://eng.unimelb.edu.au/news-and-events/news-details/recycled-tyres-create-sustainable-pavements
+ - [ ] https://www.ebaa.asn.au/
+ - [ ] https://www.buildwithrise.com/stories/adobe-floors-a-natural-alternative-to-concrete-slabs
