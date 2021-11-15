@@ -86,3 +86,5 @@ The following sets of tests are referenced for earthen materials.  Test samples 
  - [ ] https://eng.unimelb.edu.au/news-and-events/news-details/recycled-tyres-create-sustainable-pavements
  - [ ] https://www.ebaa.asn.au/
  - [ ] https://www.buildwithrise.com/stories/adobe-floors-a-natural-alternative-to-concrete-slabs
+ - [ ] https://www.resilience.org/stories/2015-06-01/earthern-floors-why-how-and-where/
+ - [ ] https://plumbingconnection.com.au/a-slab-of-confusion/
