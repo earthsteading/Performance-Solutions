@@ -104,3 +104,9 @@ Notes from webinar:
 References:
  - [ ] https://www.cfa.vic.gov.au/ArticleDocuments/342/FIRE%20READY%20KIT_2021-WEB.pdf.aspx?Embed=Y
  - [ ] https://www.cfa.vic.gov.au/ArticleDocuments/335/Your%20Guide%20to%20Survival%20V5.pdf.aspx?Embed=Y
+ - [ ] https://rossescapemodules.com.au/family-bushfire-survival-shelter/
+ - [ ] https://wildfiresafetybunkers.com.au/accreditation.html
+ - [ ] https://wildfiresafetybunkers.com.au/bunkers.html
+ - [ ] https://search.cfa.vic.gov.au/mycfa/appsearch_ui_public/?q=bushfire%20shelter&size=n_20_n
+ - [ ] https://www.vba.vic.gov.au/consumers/bushfire/private-bushfire-shelters
+ - [ ] 
