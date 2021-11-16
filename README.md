@@ -88,3 +88,11 @@ The following sets of tests are referenced for earthen materials.  Test samples 
  - [ ] https://www.buildwithrise.com/stories/adobe-floors-a-natural-alternative-to-concrete-slabs
  - [ ] https://www.resilience.org/stories/2015-06-01/earthern-floors-why-how-and-where/
  - [ ] https://plumbingconnection.com.au/a-slab-of-confusion/
+ - [ ] https://www.standards.govt.nz/shop/iso-234692005/
+ - [ ] [seismic design examples for geotechnical works](https://www.standards.govt.nz/shop/isotr-129302014/)
+ - [ ] [Structural design actions - Part 1: Permanent, imposed and other actions](https://www.standards.govt.nz/shop/asnzs-1170-12002/)
+ - [ ] [Earth buildings not requiring specific engineering design](https://www.standards.govt.nz/shop/nzs-42992020/)
+ - [ ] [Materials and construction for earth buildings](https://www.standards.govt.nz/shop/nzs-42982020/)
+ - [ ] [Engineering design of earth buildings](https://www.standards.govt.nz/shop/nzs-42972020/)
+ - [ ] [NZ Earth Building Standards](https://www.earthbuilding.org.nz/earth-building-standards/)
+ - [ ] https://www.yourhome.gov.au/
