@@ -12,8 +12,8 @@
  - [ ] ‘Development of New Performance Based Standards for Earth Buildings’ by 1998 R.Walker and H.Morris at 'Australasian Structural Engineering Conference', Auckland 1998, Proceedings Vol 1 477 – 484.
  - [ ] ‘Strength of Earth Masonry (Adobe) Walls Subjected to Lateral Wind Forces’ by P.Yttrup in Proceedings, 7th International Brick Masonry Conference Melbourne, February 1985.
  - [ ] ICC-ES Evaluation Report (International Construction Code Evaluation Service)- ESR4126 (2022) SuperAdobe Cement Stabalised Earthbags, ICC-ES division 04-00-00 masonry secton 04-24-13 site cast unit adobe masonry.  Compliance with 20189 International Residential Code: evaluated for structure and durability.
- - [ ] Australian Building Code and Legislation
- - [ ] National Construction Code
+ - [ ] Building Act 1993 and Building Regulations 2018 
+ - [ ] National Construction Code published by the Australian Building Codes Board
 
 # Detail of cement stabilised earth footings
  - [ ] Dimension and measurements for cement stabalised strip earthen footing: ![image](https://user-images.githubusercontent.com/146181/163317625-201da38a-80f0-4d1e-b51d-cff4dad1c57e.png)
