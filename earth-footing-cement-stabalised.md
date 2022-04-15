@@ -2,9 +2,10 @@ Earth footing cement stabalised
 
 Reference documents:
  - [ ] The Australian Earthbuilding Handbook (2002) by Dr Peter Walker MIEAust CPEng via SAI Global Standards Australia Committee BD-083 Earth Building as per guidance from Stephen Dobson, David Baetge, Kevan Heathcote, Chris Howe (EBAA) and David Oliver.
- - [ ] AS 2870
- - [ ] AS 3700 
- - [ ] NZS
+ - [ ] AS 2870 Residential Slab and Footing Design and Construction
+ - [ ] AS 3700 Masonry Structures
+ - [ ] NZS 4297 (2020) Engineering Design of Earth Buildings
+ - [ ] 
  - [ ] ICC
  - [ ] etc
 
