@@ -38,6 +38,18 @@
  - [ ] Footing at boundary must be founded minimum 600mm below adjacent existing ground level. 
  - [ ] Foundations adjacent to services, excavations or batter, etc. shall be extended down such that the influence line of the foundation is below the adjacent service.
 
+## Materials:
+ - [ ] Soils suitable for pressed block and rammed earth wall construction are also suitable for stabilised earth footings. 
+ - [ ] Because footings are fully supported, at least until the cement has hardened, lower clay content soils are also encouraged. 
+ - [ ] Typically Class A type soils are ideal. 
+ - [ ] After excavation, soils should be treated in the same manner as soils for wall construction. 
+ - [ ] All root material should be removed. 
+ - [ ] Soil should be stabilised using 5% to 12% cement by mass. 
+ - [ ] A cement content sufficient to attain unconfined wet characteristic compressive strength of not less than 2.5 MPa is recommended. 
+ - [ ] Ingredients should be thoroughly dry mixed before adding sufficient water to attain the optimum moisture content. 
+ - [ ] Once adequately wet mixed, material should be compacted in place within 30 minutes to 45 minutes. 
+ - [ ] Unused material should be discarded.
+
 ## Construction process:
  - [ ] All materials should be stabilised, using cement, and compacted to their maximum dry density at their optimum moisture content. Unstabilised materials, including mud bricks, are generally unsuitable. 
  - [ ] Stabilised earth footings should be founded only on firm stable soils and, due to the significant reduction in strength in the presence of water, on dry and well-drained sites. Prevention of moisture build-up by regular maintenance is, therefore, particularly important. 
@@ -66,18 +78,6 @@
  - [ ] The top of the foundation under the earth walls shall be cleaned of any laitance, be roughened to 5 mm amplitude, and have two coats of bituminous sealer applied so as to form a water-impermeable layer
  - [ ] For pre-tested reinforced or unreinforced earth, the bolt nominal shear strength values may be established by computation, testing, or a combination of these two methods.  The diameter (mm) of bolt per shear strength (kN) should be in accordance with the Uniform Building Code, e.g. 16mm bolt for 1.8kN shear; 20mm for 2.6Kn; and 24mm for 4.4kN. Bolts must be corrosion coated.
  - [ ] The minimum bolt embedment shall be three-quarters of the wall thickness with a minimum length of 200mm.
-
-## Materials:
- - [ ] Soils suitable for pressed block and rammed earth wall construction are also suitable for stabilised earth footings. 
- - [ ] Because footings are fully supported, at least until the cement has hardened, lower clay content soils are also encouraged. 
- - [ ] Typically Class A type soils are ideal. 
- - [ ] After excavation, soils should be treated in the same manner as soils for wall construction. 
- - [ ] All root material should be removed. 
- - [ ] Soil should be stabilised using 5% to 12% cement by mass. 
- - [ ] A cement content sufficient to attain unconfined wet characteristic compressive strength of not less than 2.5 MPa is recommended. 
- - [ ] Ingredients should be thoroughly dry mixed before adding sufficient water to attain the optimum moisture content. 
- - [ ] Once adequately wet mixed, material should be compacted in place within 30 minutes to 45 minutes. 
- - [ ] Unused material should be discarded.
 
 ## Maitenance:
  - [ ] Earth walls are particularly susceptible to moisture, whether this is from rising damp, water ingress from the top, driving rain, water splashing, or moisture generated internally in a building. For this reason, it is important that any design considers the need to protect earth walls from excessive moisture. 
