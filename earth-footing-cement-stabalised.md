@@ -10,8 +10,8 @@
  - [ ] UBC. Uniform Building Code, International Conference of Building Officials, 1994
  - [ ] ‘Commercial Engineered Aggregate Construction’ by D. Oliver and D. Whybrid from 'Proceedings of Economics in Building Conference', Brisbane, Australia, September 1991.
  - [ ] ‘Development of New Performance Based Standards for Earth Buildings’ by 1998 R.Walker and H.Morris at 'Australasian Structural Engineering Conference', Auckland 1998, Proceedings Vol 1 477 – 484.
- - [ ] ‘Strength of Earth Masonry (Adobe) Walls Subjected to Lateral Wind Forces’ by P.Yttrup in Proceedings, 7th International Brick Masonry Conference� Melbourne, February 1985.
- - [ ] ICC
+ - [ ] ‘Strength of Earth Masonry (Adobe) Walls Subjected to Lateral Wind Forces’ by P.Yttrup in Proceedings, 7th International Brick Masonry Conference Melbourne, February 1985.
+ - [ ] ICC-ES Evaluation Report (International Construction Code Evaluation Service)- ESR4126 (2022) SuperAdobe Cement Stabalised Earthbags, ICC-ES division 04-00-00 masonry secton 04-24-13 site cast unit adobe masonry.  Compliance with 20189 International Residential Code: evaluated for structure and durability.
  - [ ] Australian Building Code and Legislation
  - [ ] National Construction Code
 
