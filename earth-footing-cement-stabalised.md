@@ -72,4 +72,8 @@
  - [ ] Once adequately wet mixed, material should be compacted in place within 30 minutes to 45 minutes. 
  - [ ] Unused material should be discarded.
 
-
+## Maitenance:
+ - [ ] Earth walls are particularly susceptible to moisture, whether this is from rising damp, water ingress from the top, driving rain, water splashing, or moisture generated internally in a building. For this reason, it is important that any design considers the need to protect earth walls from excessive moisture. 
+ - [ ] Care is to be taken with all weathering details, including flashings and eaves to protect wall tops. 
+ - [ ] It is important that any applied coatings or surface finishes provide permeability to prevent moisture becoming trapped inside an earth wall.
+ - [ ] Deterioration of earth walls depends on the severity of wind-driven rain, on the orientation of the wall, on the weather resistance of the wall material, on surface coatings, on the surface finish, and on the degree of stabilisation of the material. 
