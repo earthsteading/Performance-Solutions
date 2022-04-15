@@ -16,10 +16,10 @@
  - [ ] National Construction Code
 
 # Detail of cement stabilised earth footings
- - [ ] Dimension and measurements for cement stabalised strip earthen footing ![image](https://user-images.githubusercontent.com/146181/163317625-201da38a-80f0-4d1e-b51d-cff4dad1c57e.png)
- - [ ] ![image](https://user-images.githubusercontent.com/146181/163495348-9471e837-d1f7-45e6-bd91-39cb272e2103.png)
- - [ ] ![image](https://user-images.githubusercontent.com/146181/163495412-271a80f2-e0bb-4f28-a819-3857683617db.png)
- - [ ] Loading positions and effective areas of dispersion on earthen walls ![image](https://user-images.githubusercontent.com/146181/163516427-6835c5df-4b56-4b65-9e05-c4046d3571af.png)
+ - [ ] Dimension and measurements for cement stabalised strip earthen footing: ![image](https://user-images.githubusercontent.com/146181/163317625-201da38a-80f0-4d1e-b51d-cff4dad1c57e.png)
+ - [ ] Position of footing in relation to adjacent construction service: ![image](https://user-images.githubusercontent.com/146181/163495348-9471e837-d1f7-45e6-bd91-39cb272e2103.png)
+ - [ ] Earth footing adjacent to tiered foundation and/or construction feature: ![image](https://user-images.githubusercontent.com/146181/163495412-271a80f2-e0bb-4f28-a819-3857683617db.png)
+ - [ ] Loading positions and effective areas of dispersion on earthen walls: ![image](https://user-images.githubusercontent.com/146181/163516427-6835c5df-4b56-4b65-9e05-c4046d3571af.png)
 
 ## Architectural drawing instructions
  - [ ] These drawing must be verified in conjunction with the architectural drawings and the engineered footing calculations report.
