@@ -5,9 +5,15 @@ Reference documents:
  - [ ] AS 2870 Residential Slab and Footing Design and Construction
  - [ ] AS 3700 Masonry Structures
  - [ ] NZS 4297 (2020) Engineering Design of Earth Buildings
- - [ ] 
+ - [ ] British Standard BS EN ISO 10319:2015 Geosynthetics Wide-width tensile test
+ - [ ] CSIRO (1995), CSIRO Australia Bulletin 5: Earth-Wall Construction
+ - [ ] UBC. Uniform Building Code, International Conference of Building Officials, 1994
+ - [ ] ‘Commercial Engineered Aggregate Construction’ by D. Oliver and D. Whybrid from 'Proceedings of Economics in Building Conference', Brisbane, Australia, September 1991.
+ - [ ] ‘Development of New Performance Based Standards for Earth Buildings’ by 1998 R.Walker and H.Morris at 'Australasian Structural Engineering Conference', Auckland 1998, Proceedings Vol 1 477 – 484.
+ - [ ] ‘Strength of Earth Masonry (Adobe) Walls Subjected to Lateral Wind Forces’ by P.Yttrup in Proceedings, 7th International Brick Masonry Conference� Melbourne, February 1985.
  - [ ] ICC
- - [ ] etc
+ - [ ] Australian Building Code and Legislation
+ - [ ] National Construction Code
 
 Detail of cement stabilised earth footings
  - [ ] ![image](https://user-images.githubusercontent.com/146181/163317625-201da38a-80f0-4d1e-b51d-cff4dad1c57e.png)
