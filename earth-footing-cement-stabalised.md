@@ -19,6 +19,7 @@
  - [ ] ![image](https://user-images.githubusercontent.com/146181/163317625-201da38a-80f0-4d1e-b51d-cff4dad1c57e.png)
  - [ ] ![image](https://user-images.githubusercontent.com/146181/163495348-9471e837-d1f7-45e6-bd91-39cb272e2103.png)
  - [ ] ![image](https://user-images.githubusercontent.com/146181/163495412-271a80f2-e0bb-4f28-a819-3857683617db.png)
+ - [ ] ![image](https://user-images.githubusercontent.com/146181/163516427-6835c5df-4b56-4b65-9e05-c4046d3571af.png)
 
 ## Architectural drawing instructions
  - [ ] These drawing must be verified in conjunction with the architectural drawings and the engineered footing calculations report.
@@ -40,25 +41,31 @@
 ## Construction process:
  - [ ] All materials should be stabilised, using cement, and compacted to their maximum dry density at their optimum moisture content. Unstabilised materials, including mud bricks, are generally unsuitable. 
  - [ ] Stabilised earth footings should be founded only on firm stable soils and, due to the significant reduction in strength in the presence of water, on dry and well-drained sites. Prevention of moisture build-up by regular maintenance is, therefore, particularly important. 
+ - [ ] Sensitive clay soils can be subject to significant volumetric change with seasonal changes in moisture content. This can lead to post-construction damage to concrete floors particularly when construction is carried out in drought conditions. Exposed soils at the building site that exhibit cracking should be thoroughly wet prior to the commencement of construction works.
  - [ ] The difficulties of providing reinforcement ensures that earth footings are only used in regions of low seismicity and in non-cyclonic areas. 
  - [ ] Only used on Class A foundations (in accordance with AS 2870)
- - [ ] Site must be predominantly dry and well drained. Some limited increase in moisture is allowed, but only during peak rainfall events, and site must have no risk of flooding
+ - [ ] Site must be predominantly dry and well drained. Some limited increase in moisture is allowed, but only during peak rainfall events, and site must have no risk of flooding.
  - [ ] Site must be located in a region of low seismicity
  - [ ] Building length to not exceed 25m
  - [ ] Walls not greater than 3m in height
- - [ ] No garden beds to be placed within 2 m of the completed building
- - [ ] No trees or shrubs to be within a distance of the footing equal to 1 % their mature height
+ - [ ] No garden beds to be placed within 2m of the completed building
+ - [ ] No trees or shrubs to be within a distance of the footing equal to 1% their mature height
  - [ ] Site drainage and all plumbing services to be maintained in accordance with AS2870
- - [ ] The minimum suggested footing depth is 400 mm. 
- - [ ] Footing widths should be varied to suit wall thickness, but a minimum footing width of 300 mm is also recommended.
- - [ ] Before placing a damp-proofing membrane, the base of the excavation should be lined with a 20 mm to 50 mm thick blinding layer of clean quarry sand or weak concrete. 
+ - [ ] The minimum suggested footing depth is 400mm. 
+ - [ ] Footing widths should be varied to suit wall thickness, but a minimum footing width of 300mm is also recommended.
+ - [ ] Before placing a damp-proofing membrane, the base of the excavation should be lined with a 20mm to 50mm thick blinding layer of clean quarry sand or weak concrete. 
  - [ ] High impact resistant polyethylene damp-proofing membrane can be used to line the footing; however, particular care should be exercised during compaction to avoid puncturing the membrane. Where possible, any punctures or tears must be repaired and properly sealed with like material.
+ - [ ] Structural members shall be designed to have design strengths at least equal to the required strengths calculated for the factored loads and applied forces in such combinations as are stipulated in AS/NZS 1170
  - [ ] Chemical damp-proofing measures are commonly used in rammed earth construction as an alternative to membrane protection. The fresh mix of cement-stabilised soil should be compacted sufficiently to obtain at least 98% of the Proctor maximum dry density. 
  - [ ] As with wall construction, compaction may be undertaken either manually or mechanically. 
  - [ ] Material should be compacted in loose layers 50 mm to 100 mm thick. 
  - [ ] Each layer is compacted in turn between permanent or temporary supports until the footing is complete. 
  - [ ] After compaction, the material should be allowed to cure undisturbed for at least 7 days. 
  - [ ] Footings should be covered with plastic sheeting, damp hessian sacks or sprayed with water, to ensure proper hydration of the cement during this period.
+ - [ ] Reinforcement shall be provided to the top and bottom of strip foundations to resist design loads and shall be not less than 200mm2 of steel in total
+ - [ ] The top of the foundation under the earth walls shall be cleaned of any laitance, be roughened to 5 mm amplitude, and have two coats of bituminous sealer applied so as to form a water-impermeable layer
+ - [ ] For pre-tested reinforced or unreinforced earth, the bolt nominal shear strength values may be established by computation, testing, or a combination of these two methods.  The diameter (mm) of bolt per shear strength (kN) should be in accordance with the Uniform Building Code, e.g. 16mm bolt for 1.8kN shear; 20mm for 2.6Kn; and 24mm for 4.4kN. Bolts must be corrosion coated.
+ - [ ] The minimum bolt embedment shall be three-quarters of the wall thickness with a minimum length of 200mm.
 
 ## Materials:
  - [ ] Soils suitable for pressed block and rammed earth wall construction are also suitable for stabilised earth footings. 
