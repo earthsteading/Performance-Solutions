@@ -1,18 +1,3 @@
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 8.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
 
 <table>
   <tr>
@@ -23,7 +8,7 @@
    </td>
   </tr>
   <tr>
-   <td>>Property: 45 Kirkpatricks Road, Macclesfield, Victoria, 3782, Australia
+   <td> Property: Macclesfield, Victoria, 3782, Australia
    </td>
   </tr>
 </table>
@@ -63,8 +48,6 @@ info@lateralbuildingdesigin.com.au
   </tr>
   <tr>
    <td>Chris Halabut (Property Owner)
-<p>
-45 Kirkpatrick Road, 
 <p>
 Macclesfield, Victoria 3782
    </td>
@@ -106,19 +89,11 @@ rob@passivenergy.com.au
   </tr>
 </table>
 
-
-**Table of Contents**:
-
-
-[TOC]
-
-
-
 # Executive Summary
 
 This Performance Based Design Solutions Report has been prepared for the proposed structure in accordance with the National Construction Code 2019, Amendment 1 and the Victoria Building Regulation 2018.
 
-The proposed building is located at 45 Kirkpatrick Road, macclesfield, Victoria, 3782, Australia.
+The proposed building is located at XXXXX
 
 The building works include the construction of a new Class 1a residential home and outbuildings.
 
@@ -196,15 +171,7 @@ The outcomes and conclusion of this PBDR are based on the information reasonably
 
 The outcomes and conclusion of this PBDR have been subject to confirmation by all relevant stakeholders who are in  agreement on the analysis, design approach and resulting conditions.
 
-
-
-    1. The Act and regulations
-
 The applicable legislation for this project is the Building Act 1993 (‘Act’) and Building Regulations 2018 (‘regulations’). The regulations require building work to be designed in accordance with NCC.
-
-
-
-    2. The National Construction Code
 
 The NCC is a performance-based building code which provides a set of Performance Requirements with which to comply. These Performance Requirements can either be met by a building design that satisfies a prescriptive or Deemed-to-Satisfy provisions, or the performance requirements of the NCC.
 
@@ -214,8 +181,6 @@ Performance Requirements are satisfied by one of the following: (1) a performanc
 
 A Performance Solution must be analysed and verified according to one or more assessment methods:
 
-
-
 1. Evidence of Suitability in accordance with Part 5 that shows that the use of a material, product, plumbing and drainage product, form of construction or design meets the relevant Performance Requirements.
 2. A Verification Method including:
     1. The verification methods provided in the BCA.
@@ -223,11 +188,7 @@ A Performance Solution must be analysed and verified according to one or more as
 3. Expert Judgement.
 4. Comparison with the Deemed-to-Satisfy Provisions
 
-Part A5 of the BCA describes requirements in relation to the documentation of design and construction for various components of a building.
-
-
-
-    3. ABCB Guidance Document
+Part A5 of the NCC describes requirements in relation to the documentation of design and construction for various components of a building.
 
 The ABCB in its guideline provides guidance for the design, documentation, assessment and approval of performance-based design solutions. The guideline is known as the ABCB Guidance Document – Performance Solution Process[^1] (‘ABCB Guide’). 
 
@@ -241,7 +202,7 @@ The ABCB Guide recommends that design solutions require specific analytical anal
 
 
 
-1. Stakeholder Engagement
+## Stakeholder Engagement
 
 This PBDR has been developed for stakeholder review, agreement and approval. The relevant stakeholders in the design of this PBDR are listed below.
 
@@ -250,13 +211,13 @@ This PBDR has been developed for stakeholder review, agreement and approval. The
 
 <table>
   <tr>
-   <td>Document
+   <td>Document:
    </td>
-   <td>Identifiers
+   <td>Identifiers:
    </td>
-   <td>Author
+   <td>Author:
    </td>
-   <td>Date
+   <td>Date:
    </td>
   </tr>
   <tr>
@@ -310,12 +271,7 @@ ph: 03 9736 4071
 
 Written acknowledgement and agreement of the PBDB have been received from the above stakeholders in writing prior to completion of the PBDR.
 
-
-
-
-
-2. Description of Building and Building Characteristic
-    4. Principle Building Characteristics
+## Description of Building and Building Characteristic
 
 The proposed building will have 2 storeys contained, a rise in storeys of 2 and an effective height of approximately 4.2metres.
 
@@ -329,22 +285,21 @@ There are no external hazards which directly impact the proposed performance-bas
 
 
 
-3. Performance Solutions / Report and Consent
+## Performance Solutions / Report and Consent
 
 The following outlines the scope of the proposed performance-based design solution and / or design items that do not meet the Deemed-to-Satisfy provisions of the NCC, as considered in this report.
 
 [TABLE] Performance Based Design Solutions:
 
-
 <table>
   <tr>
-   <td><strong> Item</strong>
+   <td><strong> Item:</strong>
    </td>
-   <td><strong>Proposed Design Solution</strong>
+   <td><strong>Proposed Design Solution:</strong>
    </td>
-   <td><strong>NCC DtS Provision</strong>
+   <td><strong>NCC DtS Provision:</strong>
    </td>
-   <td><strong>Performance Requirement</strong>
+   <td><strong>Performance Requirement:</strong>
    </td>
   </tr>
   <tr>
@@ -381,14 +336,12 @@ P2.2.3.
   </tr>
 </table>
 
+## Performance Design Solution 1
+To permit the proposed structure (footings and slabs, masonry, framing, roof and wall cladding) to be analysed for compliance with structural performance provisions.
 
-
-
-4. Performance Design Solution 1
-    5. Design Solution Analysis and Adoption
+### Design Solution Analysis and Adoption
 
 The following outlines the analysis of the proposed performance-based design solution and / or design item that do not meet the Deemed-to-Satisfy provisions of the BCA.
-
 
 <table>
   <tr>
@@ -560,9 +513,7 @@ The wind loading of the timber structure is validated by the DtS for housing des
   </tr>
 </table>
 
-
 The above comparative assessment has demonstrated that the proposed design will not increase the risk of structural actions to the building.  As such it is demonstrated that all construction will adhere to current deemed-to-satisfy requirements as defined by Australian Standards to assure no further design action risks are encountered.
-
 
 <table>
   <tr>
@@ -571,26 +522,18 @@ The above comparative assessment has demonstrated that the proposed design will 
   </tr>
   <tr>
    <td>
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
+<img src="![image](https://user-images.githubusercontent.com/146181/188519165-71fef979-e8f3-4cd3-ad5f-09b53901722a.png)" width="" alt="schematic of typical bottom plate on slab detail of non loadbearing hempcrete wall" title="proposed solution schematic">
    </td>
   </tr>
 </table>
 
-
-
-
-    6. Outcomes of the Analysis and Assessment
+### Outcomes of the Analysis and Assessment
 
 The following summarises the outcomes, conclusion, recommendations and conditions of the analysis and assessment carried out of the proposed performance-based design included in the PBDB.
 
 The proposed design solution for the proposed building is described as: 
 
-The external wall/roof system must meet the structural stability and resistance design requirements as outlined in P2.1.1. in the NCC 2019.
+  - [x] The external wall/roof system must meet the structural stability and resistance design requirements as outlined in P2.1.1. in the NCC 2019.
 
 The Performance Requirements of the BCA requires that the proposed design solution meets the criteria of P2.1.1.
 
@@ -615,8 +558,7 @@ The Performance Requirements of the BCA requires that the proposed design soluti
 <li>be designed to sustain local damage, with the structural system as a whole remaining stable and not being damaged to an extent disproportionate to the original local damage; and
  
 <li>avoid causing damage to other properties, by resisting the actions to which it may reasonably be expected to be subjected.
- 
-<li>
+
 </li> 
 </ol>
    </td>
@@ -629,10 +571,7 @@ The deterministic evaluation of the HempCrete infill walls and lime render coati
   </tr>
 </table>
 
-
-
-
-    7. Design Solution 1 Conclusion
+### Design Solution 1 Conclusion
 
 Based on the above and based on the relevant analytical analysis and assessment it is considered that the proposed design, and where appropriate to the degree necessary, will achieve compliance with the Performance Requirements of the NCC.
 
@@ -662,8 +601,10 @@ Based on the above and based on the relevant analytical analysis and assessment 
 
 
 
-5. Performance Design Solution 2
-    8. Design Solution Analysis and Adoption
+## Performance Design Solution 2
+To permit the proposed walls to be analysed for compliance with weatherproofing and rising damp performance provisions.
+
+### Design Solution Analysis and Adoption
 
 The following outlines the analysis of the proposed performance-based design solution and / or design item(s) that do not meet the Deemed-to-Satisfy provisions of the NCC.
 
@@ -753,9 +694,7 @@ P2.2.3: Rising damp
 </table>
 
 
-
-
-    9. Outcomes of the Analysis and Assessment
+### Outcomes of the Analysis and Assessment
 
 The following summarises the outcomes, conclusion, recommendations and conditions of the analysis and assessment carried out of the proposed performance-based design included in the PBDB.
 
@@ -854,10 +793,7 @@ The above comparative analysis criteria are serialised via the following typical
   <tr>
    <td>
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+<img src="![image](https://user-images.githubusercontent.com/146181/188519560-19cfc1ed-fcb2-4f19-8a60-f0511e538d4b.png)" width="" alt="schematic drawing" title="Typical eave window head schematic detail">
 
    </td>
   </tr>
@@ -868,19 +804,14 @@ The above comparative analysis criteria are serialised via the following typical
   <tr>
    <td>
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
+<img src="![image](https://user-images.githubusercontent.com/146181/188519608-7ed1d208-eece-42c3-8047-0760525d2b32.png)" width="" alt="scheamtic drawing" title="external wall plan detail">
 
    </td>
   </tr>
 </table>
 
 
-
-
-    10. Design Solution 2 Conclusion
+### Design Solution 2 Conclusion
 
 The proposed analysis criteria and design schematics provide a means of assessing the proposed design solution for the building  Based on the above analysis and a compliance approach through evidence / verification with the Deemed-to-Satisfy Provisions, it has been established that the design will meet the Performance Requirements of the NCC.
 
@@ -906,8 +837,11 @@ The proposed analysis criteria and design schematics provide a means of assessin
 
 
 
-6. Performance Design Solution 3
-    11. Design Solution Analysis and Adoption
+## Performance Design Solution 3
+
+To permit the proposed energy efficiency performance to be analysed for compliance with the objective of reducing greenhouse gas emissions.
+
+### Design Solution Analysis and Adoption
 
 The following outlines the analysis of the proposed performance-based design solution and / or design item(s) that do not meet the Deemed-to-Satisfy provisions of the NCC.
 
@@ -983,10 +917,7 @@ The following outlines the analysis of the proposed performance-based design sol
   </tr>
 </table>
 
-
-
-
-    12. Outcomes of the Analysis and Assessment
+### Outcomes of the Analysis and Assessment
 
 The following summarises the outcomes, conclusion, recommendations and conditions of the analysis and assessment carried out of the proposed performance-based design included in the PBDB.
 
@@ -1085,10 +1016,7 @@ The above comparative analysis criteria are serialised via the following typical
   <tr>
    <td>
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
+<img src="![image](https://user-images.githubusercontent.com/146181/188519727-bf707429-a05a-46fb-83c2-9cc5e56a217c.png)" width="" alt="schematic drawing" title="external wall plan detail">
 
    </td>
   </tr>
@@ -1099,10 +1027,7 @@ The above comparative analysis criteria are serialised via the following typical
   <tr>
    <td>
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
+<img src="![image](https://user-images.githubusercontent.com/146181/188519792-c273277f-bbd4-465c-80cf-7c4eeb4a62b7.png)" width="" alt="schematic drawing" title="external wall plan detail">
 
    </td>
   </tr>
@@ -1113,7 +1038,7 @@ The above comparative assessment has demonstrated that the proposed design will 
 
 
 
-    13. Design Solution 3 Conclusion
+### Design Solution 3 Conclusion
 
 The proposed analysis criteria and design schematics provide a means of assessing the proposed design solution for the building  Based on the above analysis and a compliance approach through evidence / verification with the Deemed-to-Satisfy Provisions, it has been established that the design will meet the Performance Requirements of the NCC.
 
@@ -1139,7 +1064,7 @@ The proposed analysis criteria and design schematics provide a means of assessin
 
 
 
-7. Assumptions and Limitations
+## Assumptions and Limitations
 
 This report addresses only the identified non-compliances and or preferred performance based design solutions relevant to applicable Performance Requirements of the NCC.
 
@@ -1164,27 +1089,6 @@ All calculations carry a degree of uncertainty and conditions may transpire that
 **Open Source Performance Solution**
 
 This document may be reproduced utilising the following Open Source (aka “CopyLeft”) license: “Attribution-ShareAlike-v4.0-International (CC-BY-SA-4.0), please cite and contribute to the widespread use of “Open Source Performance Solutions” by contributing any amendments to this document via an Open Source repository, such as GitHub: https://github.com/earthsteading 
-
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
- 
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
- 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-
-
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
