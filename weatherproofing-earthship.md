@@ -1,6 +1,6 @@
 # Performance solution for Earthship weatherproofing
 
-Please reference the doucment https://earthsteading.limited/performance-solution_weatherproofing-earthship
+Please reference this doucument using the following ID: https://earthsteading.limited/performance-solution_weatherproofing-earthship
 
 
 ## Performance Based Design Report
