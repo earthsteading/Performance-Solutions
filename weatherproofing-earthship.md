@@ -5,8 +5,7 @@ Please reference the doucment https://earthsteading.limited/performance-solution
 
 ## Performance Based Design Report
 
-Property: 229 Dingley Dell Road, Mollonghip, Victoria 3352
-
+Property address: Victoria
 
 <table>
   <tr>
