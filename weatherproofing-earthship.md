@@ -64,13 +64,8 @@ Property: 229 Dingley Dell Road, Mollonghip, Victoria 3352
   <tr>
    <td>Kate Procter & Jason Napriowski (Owner-Builders)
 <p>
-229 Dingley Dell Road, Mollonghip, Victoria 3352
+email: k.procter@hotmail.com & jasonnap@gmail.com
 <p>
-phone 0412000550 & 0404515750
-<p>
-email k.procter@hotmail.com & jasonnap@gmail.com
-<p>
-builder-owner insurance ref/ID: 
    </td>
   </tr>
 </table>
@@ -89,7 +84,7 @@ Earthship Eco Homes, ABN: 69647328229
 <p>
 462 Ironbank Rd, Ironbank SA 5153, Australia
 <p>
-mobile: 0450 555 719 / email: martin.freney@gmail.com / www.earthshipecohomes.com.au
+www.earthshipecohomes.com.au
 <p>
 BDAA member # 6727-21 / VBA designer lic # DP-AD 72792
    </td>
@@ -101,7 +96,7 @@ Enduro Builders Pty Ltd, ABN 99171124720
 <p>
 177 Mount Barker Road Hahndorf, South Australia 5245
 <p>
-phone: 08 8388 7401 / email: <a href="mailto:info@endurobuilders.com.au">info@endurobuilders.com.au</a>
+email: <a href="mailto:info@endurobuilders.com.au">info@endurobuilders.com.au</a>
 <p>
 Practitioner number: 237113
    </td>
@@ -119,8 +114,6 @@ Practitioner number: 237113
    <td>David Flanders Tuke
 <p>
 Earthsteading Pty Ltd, ABN 575 841 486 40
-<p>
-699 Rathdowne Street, North Carlton, VIC, 3054
 <p>
 Mobile: 0401 283375 / email: Earthsteading@gmail.com
    </td>
@@ -145,7 +138,8 @@ Mobile: 0401 283375 / email: Earthsteading@gmail.com
 <strong>Document identifier:</strong></p>
 
    </td>
-   <td><a href="https://earthsteading.limited/PBDB-Earthship-weatherproofing">https://earthsteading.limited/PBDB-Earthship-weatherproofing</a> 
+   <td>
+     https://earthsteading.limited/performance-solution_weatherproofing-earthship
    </td>
   </tr>
   <tr>
@@ -158,33 +152,16 @@ Mobile: 0401 283375 / email: Earthsteading@gmail.com
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>Document version:</strong></p>
+<strong>Document version and license </strong></p>
 
    </td>
-   <td>Rev00-DFT
+   <td>This document is licensed as a Creative Commons Sharealike copyleft license.  Please contact earthsteading@gmail.com if you would like to reuse this document.  This may not be the most current version of the document.  Version: PBDB_Rev01-DFT
    </td>
   </tr>
 </table>
 
 
-
-
-
-```
-Table of contents:
-```
-
-
-
-[TOC]
-
-
-
-## 
-
-
-
-1. Executive Summary
+# 1. Executive Summary
 
 This report has been triggered by a request from the Municipal Building Surveyor of Hepburn Council (see report Appendix 1) requesting a proposal for the following performance-based design solution(s) for the building construction project at: 229 Dingley Dell Road, Mollonghip, Victoria 3352.  The below table outlines the assessment required for a building permit application to proceed (Ref BldIP22/0005, Prop no. 10827, Assessment 3/2040/02641, dated 09/09/2022):
 
@@ -219,13 +196,13 @@ The findings, outcomes and conclusions of the analysis and assessment carried ou
 
 
 
-2. Introduction
+# 2. Introduction
 
 The following document is a Performance Based Design Solutions Report (PBDR), which was first provided to the stakeholders to assure the methods of verification were agreed.  The assessment methods have been agreed upon (in writing), via this the subsequent Performance Based Design Solution Report (PBDR) will be provided as evidence of compliance to the RBS.
 
 
 
-    1. Scope and Objectives
+## A. Scope and Objectives
 
 The aim of this report is to formulate and document a Performanced Solution in relation to a proposed performance-based design and/or a design solution that does not meet the Deemed-to-Satisfy (‘DtS’) provisions of the National Construction Code 2019 (NCC).
 
@@ -237,15 +214,9 @@ The findings, outcomes and conclusion of this Performance Solution are based on 
 
 The outcomes and conclusion of this PBDR includes acceptance by all stakeholders to the analysis and assessment outlined as required.
 
-
-
-
-
-1. Project Overview
+# Project Overview
 
 Included in this section:
-
-
 
 1. Building description of the proposed project and structure(s);
 2. Documentation for construction project: architectural drawings and consultant reports; and,
@@ -256,7 +227,7 @@ The existing building is located at 229 Dingley Dell Road, Mollonghip Victoria 3
 
 
 
-    2. Documentation
+## B. Documentation
 
 The following table outlines the documents which have been considered for the purposes of carrying out this analysis and assessment:
 
@@ -279,9 +250,6 @@ The following table outlines the documents which have been considered for the pu
    </td>
    <td>Martin Freney, Earthship Eco Homes
 <p>
-martin.freney@internode.on.net
-<p>
-mobile 0450 555 719
    </td>
   </tr>
   <tr>
@@ -292,8 +260,6 @@ mobile 0450 555 719
 Reg 126 (dated 18/03/2021)
    </td>
    <td>MLEI Consulting Engineers, Nicholas Murphy, Engineer EC34580
-<p>
-ph: (08)82312832
 <p>
 mlei@mlei.com.au 
    </td>
@@ -307,8 +273,6 @@ mlei@mlei.com.au
 <p>
 Jim Woolcock
 <p>
-Ph: 1300308525
-<p>
 residential@suho.com.au 
    </td>
   </tr>
@@ -318,8 +282,6 @@ residential@suho.com.au
    <td>Ref I1059, 13 pages, including: Wind Rating N1 Certificate (dated 24/09/2020)
    </td>
    <td>Darren Kosh, Geotechnical Engineer
-<p>
-Phone: 0438 050 539
 <p>
 Email: info@geocentral.com.au
    </td>
@@ -333,11 +295,6 @@ Email: info@geocentral.com.au
 <p>
 Regional Planning & Design Pty Ltd
 <p>
-13 Bridport Street Daylesford 3460
-<p>
-Phone 0447 073 107
-<p>
-s.thompsondesign@bigpond.com
    </td>
   </tr>
 </table>
@@ -345,19 +302,19 @@ s.thompsondesign@bigpond.com
 
 
 
-    3. Referenced documents
+## C. Referenced documents
 
 The National Construction Code applicable to the proposed building is the BCA 2019 Amendment 1, including the provisions of Clause A2.2(4).
 
 
 
-    4. The Act and regulations
+## D. The Act and regulations
 
 The applicable legislation for this project is the Building Act 1993 (‘Act’)[^1] and Building Regulations 2018 (‘regulations’)[^2]. The regulations require building work to be designed in accordance with BCA.
 
 
 
-    5. The Building Code of Australia
+## E. The Building Code of Australia
 
 The BCA is a performance-based building code which provides a set of Performance Requirements with which to be complied. These Performance Requirements can either be met by a building design that satisfies a prescriptive or deemed-to-satisfy provisions, or the performance requirements of the BCA.
 
@@ -365,15 +322,11 @@ Part A2 of the BCA outlines that compliance with the BCA is achieved by complyin
 
 Performance Requirements are satisfied by one of the following:
 
-
-
 1. A Performance Solution.
 2. A Deemed-to-Satisfy solution.
 3. A combination of the above.
 
 A Performance Solution must be analysed and verified according to one or more assessment methods:
-
-
 
 1. Evidence of Suitability in accordance with Part 5 that shows that the use of a material, product, plumbing and drainage product, form of construction or design meets the relevant Performance Requirements.
 2. A Verification Method including:
@@ -384,11 +337,7 @@ A Performance Solution must be analysed and verified according to one or more as
 
 Part A5 of the BCA describes requirements in relation to the documentation of design and construction for various components of a building.
 
-
-
-
-
-    6. ABCB Guidance Document
+## F. ABCB Guidance Document
 
 The ABCB (Australian Building Codes Board) in its guideline provides guidance for the design, documentation, assessment and approval of performance-based design solutions. The guideline is known as the ABCB Guidance Document – Performance Solution Process[^3] (‘ABCB Guide’). 
 
@@ -398,8 +347,6 @@ This PBDB has been prepared based on the ABCB Guide, and, where appropriate, thi
 
 The ABCB Guide outlines the following steps for the adoption of a performance-based design solution whereby all four steps have been completed as follows.
 
-
-
 1. Step 1: prepare a Performance Based Design Brief (PBDB) 
 2. Step 2 carry out analysis, modelling and/or testing
 3. Step 3: collate and evaluate results
@@ -407,14 +354,9 @@ The ABCB Guide outlines the following steps for the adoption of a performance-ba
 
 The ABCB Guide recommends that design solutions require specific analytical analysis, modelling or testing relevant to its complexity, be evaluated according to one or more of the assessment methods as outlined in the BCA and that the preparation of the PBDB and the PBDR be carried out by appropriately qualified design practitioners.
 
-
-
-
-
-2. Stakeholder Engagement
+## 2. Stakeholder Engagement
 
 The following table outlines the stakeholder’s responsible for reviewing and agreeing the PBDB:
-
 
 <table>
   <tr>
@@ -503,11 +445,7 @@ Phone: 03 5348 2306
 
 Written acknowledgement and agreement from the above stakeholders is required in writing prior to completion of the Performance Solution.
 
-
-
-
-
-3. Building Occupancy and Use
+# 3. Building Occupancy and Use
 
 The following table provides a high-level review of potential Performance Solutions required for this project to proceed:
 
@@ -615,16 +553,9 @@ Floor area (m2): 157 square metres
   </tr>
 </table>
 
-
-
-
-    7. Applicable prescriptive requirements
+## A. Applicable prescriptive requirements
 
 Based on the above high-level review of the building’s occupancy use the following key components are prescriptive requirements related to this performance solution:  
-
-  
-
-
 
 1. Structural robustness
 2. Building fabric
@@ -632,19 +563,13 @@ Based on the above high-level review of the building’s occupancy use the follo
 4. Building sealing
 5. Health and amenity
 
-
-
-
-
-4. Performance Solutions / Report and Consent
+# 4. Performance Solutions / Report and Consent
 
 This section of the report includes:
 
-
-
 1. Reference documents, standards and expert judgements used in evaluating this performance solution: and
-2. Scope of the building design being considered in this performance solution;
-    8. Reference documents
+2. Scope of the building design being considered in this performance solution; and
+3. Reference documents
 
 The following table outlines the scope of the proposed performance-based design solution and / or design items that do not meet the Deemed-to-Satisfy provisions of the BCA, as considered in this report:
 
@@ -717,7 +642,7 @@ P2.2.2.
 
 
 
-    9. Reference standards and expert judgement
+## A. Reference standards and expert judgement
 
 The following table provides a list of expert judgement evidence cited throughout this report:
 
@@ -850,73 +775,26 @@ The following table provides a list of expert judgement evidence cited throughou
 
 
 
-    10. Scope of design
+## B. Scope of design
 
 The below architectural elevation plans show the distribution of the external wall construction materials across the buildings: (a) timber and glass cladding and wall construction across the north facade of the building; (b) timber framed glazing on the north facade of the building; (c) earthen masonry cladding with glass bottle wall system on the north, east, south and west facades of the building; and, (d) earth retaining structures comprising the southern elevation of the building.
 
 
+Figure 7.1: Design render of northerly facing facade of building
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-Diagram 7.1: Design render of northerly facing facade of building
-
-
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-Diagram 7.2 – North elevation of building facade with timber glazed framing and earthen composite masonry and timber framed glazing.
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
+Figure 7.2 – North elevation of building facade with timber glazed framing and earthen composite masonry and timber framed glazing.
 
 Figure 7.3 – South elevation of building facade with earthen composite masonry and earth retaining cladding system and drainage.
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
 Figure 7.4 – East elevation of building facade with earthen composite masonry and glass-bottle wall system construction.
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
 
 Figure 7.5 – West elevation of building facade with earthen composite masonry and glass-bottle wall system.
 
-
-
-
-
-5. Performance Design Solution no.1 (PDS1 - Structure)
+# 5. Performance Design Solution no.1 (PDS1 - Structure)
 
 PDS1 outlines the analysis of the proposed performance-based design solution and/or design items that do not meet the Deemed-to-Satisfy provision of the NCC.
 
 Included in this section:
-
-
 
 * Design solution analysis criteria
 * Trial design used for evaluation
@@ -993,15 +871,7 @@ Included in this section:
 
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-
-
-    12. **Trial design used for evaluation**
+## A. **Trial design used for evaluation**
 
 The following technique has been adopted in the trial design for evaluation of the proposed solution, which meets the acceptance criteria outlined above.
 
@@ -1086,9 +956,8 @@ Material strength and serviceability uncertainty factors for soil via Table 5.1 
 
 
 
-    13. **Solution analysis and assessment**
+## B. Solution analysis and assessment
 
- \
 The proposed design solution for the proposed building is described as “to permit the use of retaining wall structures” as verified by way of an expert judgement in accordance with A2.2 of the BCA, Volume One Amendment 1.
 
 The key acceptance criteria of the Performance Requirement are that the design of the building will safeguard the occupants from injury caused by structural failure; and safeguard people from loss of amenity caused by structural behaviour; and protect other property from physical damage caused by structural failure; and safeguard people from injury that may be caused by failure of,or impact with, glazing.
@@ -1097,7 +966,7 @@ Based on the above and based on the relevant analysis, it is considered that the
 
 
 
-    14. **Recommendations for #PDS1**
+## C. Recommendations for #PDS1
 
 Based on the above analysis and a compliance approach through expert evidence and comparison with the Deemed-to-Satisfy Provisions, it has been established that the design will meet the Performance Requirements of the BCA.
 
@@ -1133,19 +1002,18 @@ The following table outlines the requirements associated with the above performa
 
 
 
-6. Performance Design Solution no.2 (PDS2 - Weatherproofing)
+# 6. Performance Design Solution no.2 (PDS2 - Weatherproofing)
 
 PDS2 outlines the analysis of the proposed performance-based design solution and/or design items that do not meet the Deemed-to-Satisfy provision of the NCC.
 
 Included in this section:
 
+ * Design solution analysis criteria
+ * Trial design used for evaluation
+ * Solution analysis and assessment
+ * Recommendations for #PDS2
 
-
-1. Design solution analysis criteria
-2. Trial design used for evaluation
-3. Solution analysis and assessment
-4. Recommendations for #PDS2
-    15. Design Solution Analysis
+## A. Design Solution Analysis
 
 <table>
   <tr>
@@ -1218,25 +1086,13 @@ Included in this section:
 </table>
 
 
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
-
-
-
-
-    16. **Trial design used for evaluation**
+## B. Trial design used for evaluation
 
 The following technique has been adopted in the trial design for evaluation of the proposed solution, which meets the acceptance criteria outlined above.
 
 AS 3700 – 2018 Masonry Structures[^4] includes a provision for design for water penetration. This includes requirements for cavities, weepholes, damp-proof-courses and flashings for cavity walls; and weather-resistant coating to single-leaf and solid walls.
 
 It follows that the masonry wall will be adequately protected from water ingress if constructed in accordance with AS3700, preventing water penetration that could cause;
-
-
 
 * unhealthy or dangerous conditions, or loss of amenity for occupants; and
 * undue dampness or deterioration of building elements.
@@ -1383,7 +1239,7 @@ Typical section detail of cantilevered wall drainage type 1 via Figure G3 in AS4
 
 
 
-    17. **Solution analysis and assessment**
+## C. Solution analysis and assessment
 
 The proposed design solution for the proposed building is described as: “ to permit the use of masonry wall cladding systems as verified by way of an expert judgement in accordance with A2.2 of the BCA 2019, Volume One Amendment 1.”
 
@@ -1393,26 +1249,19 @@ The acceptance criteria considered established to meet the Performance Requireme
 
 The Guide to the BCA establishes that a building is to be constructed to provide resistance to moisture penetrating from the outside including rising from the ground. A building must resist:
 
-            
-
-
-
-        * rainwater, coming through the roof or walls, due to poor waterproofing or flashing;
-        * surface water, coming through the openings which are too low; and
-        * ground water, which could rise up through porous floors or walls 
+ * rainwater, coming through the roof or walls, due to poor waterproofing or flashing;
+ * surface water, coming through the openings which are too low; and
+ * ground water, which could rise up through porous floors or walls 
 
 The roofs and walls (including windows, doors and other openings in the walls) must prevent water penetration which could cause dangerous conditions, loss of amenity or dampness and deterioration of building elements (see PDS3 for bottle-wall construction weatherproofing methodology).
 
 Based on the above and based on the relevant analysis, it is considered that the proposed design, and where appropriate to the degree necessary, will achieve compliance with the Performance Requirements of the BCA.
 
-
-
-    18. **Recommendation for PDS2**
+## D. Recommendation for PDS2
 
 Based on the above analysis and a compliance approach through expert evidence and comparison with the Deemed-to-Satisfy Provisions, it has been established that the design will meet the Performance Requirements of the BCA.
 
 The following table outlines the requirements associated with the above performance design solution:
-
 
 <table>
   <tr>
@@ -1443,23 +1292,17 @@ The following table outlines the requirements associated with the above performa
 </table>
 
 
-
-
-
-
-7. **Performance Design Solution no.3 (PDS3) - **
+7. Performance Design Solution no.3 (PDS3)
 
 PDS3 outlines the analysis of the proposed performance-based design solution and/or design items that do not meet the Deemed-to-Satisfy provision of the NCC.
 
 Included in this section:
 
-
-
-1. Design solution analysis criteria
-2. Trial design used for evaluation
-3. Solution analysis and assessment
-4. Recommendations for PDS2
-    19. Design Solution Analysis
+ * Design solution analysis criteria
+ * Trial design used for evaluation
+ * Solution analysis and assessment
+ * Recommendations for PDS2
+ * Design Solution Analysis
 
 <table>
   <tr>
@@ -1531,18 +1374,7 @@ Included in this section:
   </tr>
 </table>
 
-
-
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image24.png "image_tooltip")
-
-
-
-
-    20. **Trial design used for evaluation**
+## A. Trial design used for evaluation
 
 The following technique has been adopted in the trial design and for evaluation of the proposed design solution to meeting the acceptance criteria outlined above.
 
@@ -1639,9 +1471,8 @@ Risk mitigation and maintenance assessment of glass bottle bricks.
 
 
 
-    21. **Solution analysis and assessment**
+## B. Solution analysis and assessment
 
- \
 The key criteria of the Performance Requirement are that the design of the building will safeguard the occupants from illness or injury and protect the building from damage caused by the weather and external moisture entering the building.
 
 The acceptance criteria considered established to meet the Performance Requirements are that the external wall system must prevent the penetration of water that could cause unhealthy and dangerous conditions, or loss of amenity for occupants; and undue dampness or deterioration of building elements.
@@ -1654,14 +1485,11 @@ The walls (including windows, doors and other openings) must prevent water penet
 
 Based on the above and based on the relevant analysis, it is considered that the proposed design, and where appropriate to the degree necessary, will achieve compliance with the Performance Requirements of the BCA.
 
-
-
-    22. **Recommendations for #PDS3**
+## C. Recommendations for #PDS3**
 
 Based on the above analysis and a compliance approach through expert evidence and comparison with the Deemed-to-Satisfy Provisions, it has been established that the design will meet the Performance Requirements of the BCA.
 
 The following table outlines the requirements associated with the above performance design solution:
-
 
 <table>
   <tr>
@@ -1685,16 +1513,11 @@ The following table outlines the requirements associated with the above performa
   </tr>
 </table>
 
-
-
-
-8. Conclusion
+# 8. Conclusion
 
 This report describes a proposal for the performance-based design solution and subject to all stakeholders agreeing to the development of the performance-based design solutions identified in this PBDB, it is considered that the proposed solutions will comply with the Performance Requirements of the BCA, and will be finalised in a PBDR.
 
-
-
-    23. Report conditions
+## A. Report conditions
 
 The following table summarises the conditions associated with the Performance Based Design Solutions outlined in this report: 
 
@@ -1789,7 +1612,7 @@ As per Building Regulation 38 the above conditions should be included in the bui
 
 
 
-    24. Report terms
+## Report terms
 
 The following table defines the terms and conditions of this report:
 
@@ -1926,10 +1749,9 @@ Expert Judgement</p>
 
 
 
-**Open Source Performance Solution**
+# Open Source Performance Solution
 
 This document may be reproduced utilising the following Open Source (aka “CopyLeft”) license: “Attribution-ShareAlike-v4.0-International (CC-BY-SA-4.0), please cite and contribute to the widespread use of “Open Source Performance Solutions” by contributing any amendments to this document via an Open Source repository, such as GitHub: https://github.com/earthsteading 
-
 
 
 <p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image31.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -1986,787 +1808,3 @@ www.duChateauChun.com
 
 www.Earthsteading.Limited/go
 
-[For previous employment, see LinkedIn]
-
-AIBS PER: https://earthsteading.limited/AIBS-PER-FlandersTuke
-
-<span style="text-decoration:underline;">Biography</span>:
-
-David is an apprentice surveyor and engineer, working primarily on commercial buildings in Melbourne for duChateauChun.  As a pro bono activity, David’s consultancy Earthsteading Ltd Pty is dedicated to producing Open Source Performance Solutions (OSPS) for sustainable construction methods.  The purpose of producing OSPSs is to advance Australian building methods which will reduce the significant greenhouse and carbon emissions currently being produced by the building industry.
-
-
-
-
-<table>
-  <tr>
-   <td>
-<h2>APPENDICES</h2>
-
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2>List of appendices:</h2>
-
-
-<ol>
-
-<li>Letter from Municipal Building Surveyor Wayne Cooper
-
-<li>Regulation 126 Certificate of Conformance by Designer
-
-<li>Regulation 126 Certificate of Compliance by Checker
-
-<li>Letter from owner-builders on ability to maintain construction method
-</li>
-</ol>
-   </td>
-  </tr>
-</table>
-
-
-
-### 
-
-
-### Appendix 1: Letter from Municipal Building Surveyor Wayne Cooper
-
-
-
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image35.png "image_tooltip")
-
-
-
-
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image36.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image36.png "image_tooltip")
-
-
-
-
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image37.png "image_tooltip")
-
-
-
-
-
----
-
-
-### Appendix 2: Regulation 126 - Dr Martin Freney
-
-**Building Act 1993**
-
-_Section 238(1)(a) _
-
-**Building Regulations 2018**
-
-_Regulation 126_
-
-**CERTIFICATE OF COMPLIANCE FOR PROPOSED BUILDING WORK**
-
-
-<table>
-  <tr>
-   <td>This certificate is issued to the Relevant Building Surveyor (RBS):
-   </td>
-   <td>Wayne Cooper, Municipal Building Surveyor
-<p>
-BS-U 1273
-   </td>
-  </tr>
-  <tr>
-   <td>This certificate is issued in relation to the proposed building work at: 
-   </td>
-   <td>229 Dingley Dell Road, Mollonghip, Victoria 3352
-   </td>
-  </tr>
-</table>
-
-
-**Nature of proposed building work:**
-
-
-<table>
-  <tr>
-   <td>Construction of a:
-   </td>
-   <td>new building
-   </td>
-  </tr>
-  <tr>
-   <td>Storeys contained:
-   </td>
-   <td>One
-   </td>
-  </tr>
-  <tr>
-   <td>Rise in storeys
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>Effective height:
-   </td>
-   <td>less than 4 metres
-   </td>
-  </tr>
-  <tr>
-   <td>Type of Construction:
-   </td>
-   <td>Subject to Bushfire Overlay
-   </td>
-  </tr>
-  <tr>
-   <td>Version of NCC applicable to certificate:
-   </td>
-   <td>NCC 2019 Building Code of Australia Volume 2 Amdt 1
-   </td>
-  </tr>
-  <tr>
-   <td>Building Classification:
-   </td>
-   <td>1a
-   </td>
-  </tr>
-  <tr>
-   <td>Part of building applicable:
-   </td>
-   <td>Whole building
-   </td>
-  </tr>
-  <tr>
-   <td>Prescribed class of building work for which this certificate is issued:
-   </td>
-   <td>Performance Solution
-   </td>
-  </tr>
-  <tr>
-   <td>Design or part of the design of building work relating to:
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-</table>
-
-
-**Documents setting out the design that is certified by this certificate**
-
-
-<table>
-  <tr>
-   <td>Document
-   </td>
-   <td>Identifiers
-   </td>
-   <td>Author(s)
-   </td>
-  </tr>
-  <tr>
-   <td>Architectural drawings
-   </td>
-   <td>A001 Rev4, <strong>A002 Rev6</strong>, A101 Rev4, A102 Rev4, <strong>A104 Rev6</strong>, A107 Rev5, A108 Rev4, A109 Rev5, A201 Rev4, A202 Rev4, <strong>A301 Rev6</strong>, A302 Rev4, A303 Rev4, A304 Rev4, A304.1 Rev4, A305 Rev4, A305.1 Rev4, A306 Rev5, A307 Rev4, A308 Rev4, A400 Rev4, A401 Rev5, A402 Rev5, A403 Rev4, A404 Rev4, A405 Rev4, A406 Rev5, A407 Rev5, A501 Rev5, A502 Rev5, A503 Rev5, A504 Rev4, A506 Rev4, A601 Rev4, A603 Rev4, A604 Rev5, A901 Rev4 (dated 05/12/2022)
-   </td>
-   <td>Martin Freney, Earthship Eco Homes
-<p>
-martin.freney@internode.on.net
-<p>
-mobile 0450 555 719
-   </td>
-  </tr>
-  <tr>
-   <td>Structural drawings and calculations
-   </td>
-   <td>A2020-10803 (dated 21/10/2020)
-<p>
-Reg 126 (dated 18/03/2021)
-   </td>
-   <td>MLEI Consulting Engineers, Nicholas Murphy, Engineer EC34580
-<p>
-ph: (08)82312832
-<p>
-mlei@mlei.com.au 
-   </td>
-  </tr>
-  <tr>
-   <td>Energy Efficiency Report
-   </td>
-   <td>Report Reference SH121373 (dated 16/03/2021)
-   </td>
-   <td>SUHO Pty Ltd
-<p>
-Jim Woolcock
-<p>
-Ph: 1300308525
-<p>
-residential@suho.com.au 
-   </td>
-  </tr>
-  <tr>
-   <td>Geotechnical Site Investigation Report 
-   </td>
-   <td>Ref I1059, 13 pages, including: Wind Rating N1 Certificate (dated 24/09/2020)
-   </td>
-   <td>Darren Kosh, Geotechnical Engineer
-<p>
-Phone: 0438 050 539
-<p>
-Email: info@geocentral.com.au
-   </td>
-  </tr>
-  <tr>
-   <td>Bushfire Management Statement
-   </td>
-   <td>Bushfire Management Overlay (BMO), Ref No.20.220, 29 pages (dated 20/07/2022)
-   </td>
-   <td>Sue Thompson
-<p>
-Regional Planning & Design Pty Ltd
-<p>
-13 Bridport Street Daylesford 3460
-<p>
-Phone 0447 073 107
-<p>
-s.thompsondesign@bigpond.com
-   </td>
-  </tr>
-  <tr>
-   <td>Performance Based Design
-   </td>
-   <td>https://earthsteading.limited/performance-solution_weatherproofing-earthship 
-   </td>
-   <td>David Flanders Tuke
-<p>
-Earthsteading Ltd Pty
-<p>
-0401 283375
-<p>
-earthsteading@gmail.com
-   </td>
-  </tr>
-</table>
-
-
-**Performance solution**
-
-A performance solution forms part of the design certified by this certificate.  The performance solution complies with the following performance requirements of the NCC 
-
-
-<table>
-  <tr>
-   <td><strong>Compliance:</strong>
-   </td>
-   <td><strong>Details of performance solution required by regulation 124:</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Relevant performance requirement
-   </td>
-   <td>To provide expert qualitative justification for weatherproofing against NCC Performance Requirements Part 3.5.4
-   </td>
-  </tr>
-  <tr>
-   <td>(i)	the assessment method or methods;
-   </td>
-   <td>As per the NCC, the Performance Requirement utilised will be a comparative approach as per NCC A2.2(1)(b) > Comparison to Deemed-to-Satisfy A2(1)(b)(2)(d) > qualitative evidence.
-   </td>
-  </tr>
-  <tr>
-   <td>(ii)	the details of any expert judgement;
-   </td>
-   <td>Design provided by Dr Martin Freney
-<p>
-Design checked by Jackson Digney
-<p>
-Design reviewed and agreed to be owner-builder: Jason Napriowski
-   </td>
-  </tr>
-  <tr>
-   <td>(iii)	the details of any tests or calculations;
-   </td>
-   <td>As per the NCC, the Performance Requirement utilised will be a comparative approach as per NCC A2.2(1)(b) > Comparison to Deemed-to-Satisfy A2(1)(b)(2)(d) > qualitative evidence.
-   </td>
-  </tr>
-  <tr>
-   <td>(iv)	the details of any standards or other information.
-   </td>
-   <td>AS-HB195, AS1684, AS2159, AS2870, AS3700, AS4284, AS4678, AS4773, and NZS4297.
-   </td>
-  </tr>
-</table>
-
-
-**The design certified by this certificate complies with the following provisions of Building Act 1993, Building Regulations 2018 or National Construction Code **
-
-
-<table>
-  <tr>
-   <td><strong>Act, Regulation or NCC</strong>
-   </td>
-   <td><strong>Section, Regulation, Part, Performance Requirement or other provision</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>NCC BCA 2019 Vol 2, Amdt 1
-   </td>
-   <td>P2.1.1. & P2.2.2.
-   </td>
-  </tr>
-</table>
-
-
-
-
-* I prepared the design, or part of the design, set out in the documents listed above.
-* I certify that the design set out in the documents listed above complies with the provisions set out above.
-* I certify that the performance solution referred to above complies with the performance requirements listed.
-
-I believe that I hold the required skills, experience and knowledge to issue this certificate and can demonstrate this if requested to do so.
-
-
-<table>
-  <tr>
-   <td>Endorsed Practitioner Full Name:
-   </td>
-   <td>MARTIN HOWARD PRIESTMAN FRENEY
-   </td>
-  </tr>
-  <tr>
-   <td>Endorsed Practitioner Area of Expertise:
-   </td>
-   <td>BUILDING DESIGNER
-   </td>
-  </tr>
-  <tr>
-   <td>Business Address:
-   </td>
-   <td>462 IRONBANK ROAD, IRONBANK, SA 5153
-   </td>
-  </tr>
-  <tr>
-   <td>Email / Phone:
-   </td>
-   <td><a href="mailto:martin.freney@internode.on.net">martin.freney@internode.on.net</a>
-<p>
-0450 555 719
-   </td>
-  </tr>
-  <tr>
-   <td>Date of issue of certificate:
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Signature and date:</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Signature:
-   </td>
-  </tr>
-  <tr>
-   <td>Date:
-   </td>
-  </tr>
-</table>
-
-
-
----
-
-
-### Appendix 3: Regulation 126 - Mr Jackson Digney
-
-
----
-
-**Building Act 1993**
-
-_Section 238(1)(a) _
-
-**Building Regulations 2018**
-
-_Regulation 126_
-
-**CERTIFICATE OF COMPLIANCE FOR PROPOSED BUILDING WORK**
-
-
-<table>
-  <tr>
-   <td>This certificate is issued to the Relevant Building Surveyor (RBS):
-   </td>
-   <td>Wayne Cooper, Municipal Building Surveyor
-<p>
-BS-U 1273
-   </td>
-  </tr>
-  <tr>
-   <td>This certificate is issued in relation to the proposed building work at: 
-   </td>
-   <td>229 Dingley Dell Road, Mollonghip, Victoria 3352
-   </td>
-  </tr>
-</table>
-
-
-**Nature of proposed building work:**
-
-
-<table>
-  <tr>
-   <td>Construction of a:
-   </td>
-   <td>new building
-   </td>
-  </tr>
-  <tr>
-   <td>Storeys contained:
-   </td>
-   <td>One
-   </td>
-  </tr>
-  <tr>
-   <td>Rise in storeys
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>Effective height:
-   </td>
-   <td>less than 4 metres
-   </td>
-  </tr>
-  <tr>
-   <td>Type of Construction:
-   </td>
-   <td>Subject to Bushfire Overlay
-   </td>
-  </tr>
-  <tr>
-   <td>Version of NCC applicable to certificate:
-   </td>
-   <td>NCC 2019 Building Code of Australia Volume 2 Amdt 1
-   </td>
-  </tr>
-  <tr>
-   <td>Building Classification:
-   </td>
-   <td>1a
-   </td>
-  </tr>
-  <tr>
-   <td>Part of building applicable:
-   </td>
-   <td>Whole building
-   </td>
-  </tr>
-  <tr>
-   <td>Prescribed class of building work for which this certificate is issued:
-   </td>
-   <td>Performance Solution
-   </td>
-  </tr>
-  <tr>
-   <td>Design or part of the design of building work relating to:
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-</table>
-
-
-**Documents setting out the design that is certified by this certificate**
-
-
-<table>
-  <tr>
-   <td>Document
-   </td>
-   <td>Identifiers
-   </td>
-   <td>Author(s)
-   </td>
-  </tr>
-  <tr>
-   <td>Architectural drawings
-   </td>
-   <td>A001 Rev4, <strong>A002 Rev6</strong>, A101 Rev4, A102 Rev4, <strong>A104 Rev6</strong>, A107 Rev5, A108 Rev4, A109 Rev5, A201 Rev4, A202 Rev4, <strong>A301 Rev6</strong>, A302 Rev4, A303 Rev4, A304 Rev4, A304.1 Rev4, A305 Rev4, A305.1 Rev4, A306 Rev5, A307 Rev4, A308 Rev4, A400 Rev4, A401 Rev5, A402 Rev5, A403 Rev4, A404 Rev4, A405 Rev4, A406 Rev5, A407 Rev5, A501 Rev5, A502 Rev5, A503 Rev5, A504 Rev4, A506 Rev4, A601 Rev4, A603 Rev4, A604 Rev5, A901 Rev4 (dated 05/12/2022)
-   </td>
-   <td>Martin Freney, Earthship Eco Homes
-<p>
-martin.freney@internode.on.net
-<p>
-mobile 0450 555 719
-   </td>
-  </tr>
-  <tr>
-   <td>Structural drawings and calculations
-   </td>
-   <td>A2020-10803 (dated 21/10/2020)
-<p>
-Reg 126 (dated 18/03/2021)
-   </td>
-   <td>MLEI Consulting Engineers, Nicholas Murphy, Engineer EC34580
-<p>
-ph: (08)82312832
-<p>
-mlei@mlei.com.au 
-   </td>
-  </tr>
-  <tr>
-   <td>Energy Efficiency Report
-   </td>
-   <td>Report Reference SH121373 (dated 16/03/2021)
-   </td>
-   <td>SUHO Pty Ltd
-<p>
-Jim Woolcock
-<p>
-Ph: 1300308525
-<p>
-residential@suho.com.au 
-   </td>
-  </tr>
-  <tr>
-   <td>Geotechnical Site Investigation Report 
-   </td>
-   <td>Ref I1059, 13 pages, including: Wind Rating N1 Certificate (dated 24/09/2020)
-   </td>
-   <td>Darren Kosh, Geotechnical Engineer
-<p>
-Phone: 0438 050 539
-<p>
-Email: info@geocentral.com.au
-   </td>
-  </tr>
-  <tr>
-   <td>Bushfire Management Statement
-   </td>
-   <td>Bushfire Management Overlay (BMO), Ref No.20.220, 29 pages (dated 20/07/2022)
-   </td>
-   <td>Sue Thompson
-<p>
-Regional Planning & Design Pty Ltd
-<p>
-13 Bridport Street Daylesford 3460
-<p>
-Phone 0447 073 107
-<p>
-s.thompsondesign@bigpond.com
-   </td>
-  </tr>
-  <tr>
-   <td>Performance Based Design
-   </td>
-   <td>https://earthsteading.limited/performance-solution_weatherproofing-earthship 
-   </td>
-   <td>David Flanders Tuke
-<p>
-Earthsteading Ltd Pty
-<p>
-0401 283375
-<p>
-earthsteading@gmail.com
-   </td>
-  </tr>
-</table>
-
-
-**Performance solution**
-
-A performance solution forms part of the design certified by this certificate.  The performance solution complies with the following performance requirements of the NCC 
-
-
-<table>
-  <tr>
-   <td><strong>Compliance:</strong>
-   </td>
-   <td><strong>Details of performance solution required by regulation 124:</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Relevant performance requirement
-   </td>
-   <td>To provide expert qualitative justification for weatherproofing against NCC Performance Requirements Part 3.5.4
-   </td>
-  </tr>
-  <tr>
-   <td>(i)	the assessment method or methods;
-   </td>
-   <td>As per the NCC, the Performance Requirement utilised will be a comparative approach as per NCC A2.2(1)(b) > Comparison to Deemed-to-Satisfy A2(1)(b)(2)(d) > qualitative evidence.
-   </td>
-  </tr>
-  <tr>
-   <td>(ii)	the details of any expert judgement;
-   </td>
-   <td>Design provided by Dr Martin Freney
-<p>
-Design checked by Jackson Digney
-<p>
-Design reviewed and agreed to be owner-builder: Jason Napriowski
-   </td>
-  </tr>
-  <tr>
-   <td>(iii)	the details of any tests or calculations;
-   </td>
-   <td>As per the NCC, the Performance Requirement utilised will be a comparative approach as per NCC A2.2(1)(b) > Comparison to Deemed-to-Satisfy A2(1)(b)(2)(d) > qualitative evidence.
-   </td>
-  </tr>
-  <tr>
-   <td>(iv)	the details of any standards or other information.
-   </td>
-   <td>AS-HB195, AS1684, AS2159, AS2870, AS3700, AS4284, AS4678, AS4773, and NZS4297.
-   </td>
-  </tr>
-</table>
-
-
-**The design certified by this certificate complies with the following provisions of Building Act 1993, Building Regulations 2018 or National Construction Code **
-
-
-<table>
-  <tr>
-   <td><strong>Act, Regulation or NCC</strong>
-   </td>
-   <td><strong>Section, Regulation, Part, Performance Requirement or other provision</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>NCC BCA 2019 Vol 2, Amdt 1
-   </td>
-   <td>P2.1.1. & P2.2.2.
-   </td>
-  </tr>
-</table>
-
-
-
-
-* ~~I prepared the design, or part of the design, set out in the documents listed above.~~
-* I _checked _the design, or part of the design, set out in the document listed above;
-* I certify that the design set out in the documents listed above complies with the provisions set out above.
-* I certify that the performance solution referred to above complies with the performance requirements listed.
-
-I believe that I hold the required skills, experience and knowledge to issue this certificate and can demonstrate this if requested to do so.
-
-
-<table>
-  <tr>
-   <td>Endorsed Practitioner Full Name:
-   </td>
-   <td>JACKSON DIGNEY
-   </td>
-  </tr>
-  <tr>
-   <td>Endorsed Practitioner Area of Expertise:
-   </td>
-   <td>BUILDER
-   </td>
-  </tr>
-  <tr>
-   <td>Business Address:
-   </td>
-   <td>177 Mount Barker Road Hahndorf, South Australia 5245
-   </td>
-  </tr>
-  <tr>
-   <td>Email / Phone:
-   </td>
-   <td>phone: 08 8388 7401
-<p>
-email: info@endurobuilders.com.au
-   </td>
-  </tr>
-  <tr>
-   <td>Date of issue of certificate:
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-   <td><strong>Signature and date:</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Signature:
-   </td>
-  </tr>
-  <tr>
-   <td>Date:
-   </td>
-  </tr>
-</table>
-
-
-
----
-
-
-### Appendix 4: Letter from Owner-Builders
-
-To Whom It May Concern
-
-Katherine Procter and I, Jason Napiorkowski, have developed our skills in the construction of decorative bottle walls across several years in numerous locations. The information covered below includes details of Kate and my hands-on experience in building decorative bottle walls. We are confident and capable of the complete process of construction. We are also capable of repairs in the unlikely event of glass breaking during the use of the home.
-
-In 2018 Kate and I spent two months in Taos, New Mexico, developing the skill sets with those who have pioneered the development of houses with designs similar to the proposed house at 229 Dingley Dell road. Taking part in their academy we constructed multiple decorative glass walls and were involved from start to finish. During our time in Taos, we also toured homes constructed as early as 1980 that had decorative bottle walls that remained issue free.
-
-More recently, at a similar building in 2019 in East Augusta, Kate Procter led the design and construction of the decorative glass wall pictured to the right. The building has similar latitude and climate, although East Augusta has an average annual rainfall of 1130mm, whilst Mollongghip has 699mm. Despite the high levels of rainfall the wall has had no structural or moisture issues in the 3 years since construction was complete. Kate was intimately involved with all aspects from design, mixing cement, constructing the wall, and applying renders on both sides. She also helped train participants in a workshop at the time. I assisted, whilst also working elsewhere on the site. 
-
-In 2022, Kate and I visited a building in South Australia with an almost identical floor plan to the proposed building at 229 Dingley Dell. Like the proposed building the SA building has decorative bottle walls on the North Eastern, and North Western sections of the building each with one side exposed on the outside of the building. Again, no issues have arisen with structure or moisture with either wall.
-
-There are copious examples of the decorative glass bottle walls being built and maintained across the globe. We have no hesitation in employing the technique in our proposed build at 229 Dingley Dell.
-
-If you wish to discuss the construction of the decorative glass bottle walls further, please feel free to contact us on the details below.
-
-Thank You
-
-Kate Procter and Jason Napiorkowski (Owner-Builders)
-
-0412000550   	0404515750
-
-k.procter@hotmail.com          	jasonnap@gmail.com  
-
-
----
-
-<p style="text-align: right">
-/end</p>
-
-
-
-<!-- Footnotes themselves at the bottom. -->
-## Notes
-
-[^1]:
-     _Building Act 1993_ (Vic)
-
-[^2]:
-     _Building Regulations 2018_ (Vic)
-
-[^3]:
-     ABCB Guidance Document – Performance Solution Process, ABCB, 2021
-
-[^4]:
-     AS 3700 – 2018 Masonry Structures, Standards Australia
