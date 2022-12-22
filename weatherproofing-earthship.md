@@ -167,16 +167,14 @@ The outcomes and conclusion of this PBDR includes acceptance by all stakeholders
 
 Included in this section:
 
-1. Building description of the proposed project and structure(s);
-2. Documentation for construction project: architectural drawings and consultant reports; and,
-3. Guidance documents including: NCC/BCA, relevant legislation and prescribed procedures.
-    1. Building Description
+ * Building description of the proposed project and structure(s);
+ * Documentation for construction project: architectural drawings and consultant reports; and,
+ * Guidance documents including: NCC/BCA, relevant legislation and prescribed procedures.
+ * Building Description
 
 The existing building is located at 229 Dingley Dell Road, Mollonghip Victoria 3352.  The project includes the construction of a single Class 1a residential dwelling.
 
-
-
-## B. Documentation
+## A. Documentation
 
 The following table outlines the documents which have been considered for the purposes of carrying out this analysis and assessment:
 
@@ -248,20 +246,13 @@ Regional Planning & Design Pty Ltd
   </tr>
 </table>
 
-
-
-
 ## C. Referenced documents
 
 The National Construction Code applicable to the proposed building is the BCA 2019 Amendment 1, including the provisions of Clause A2.2(4).
 
-
-
 ## D. The Act and regulations
 
 The applicable legislation for this project is the Building Act 1993 (‘Act’)[^1] and Building Regulations 2018 (‘regulations’)[^2]. The regulations require building work to be designed in accordance with BCA.
-
-
 
 ## E. The Building Code of Australia
 
@@ -516,12 +507,11 @@ Based on the above high-level review of the building’s occupancy use the follo
 
 This section of the report includes:
 
-1. Reference documents, standards and expert judgements used in evaluating this performance solution: and
-2. Scope of the building design being considered in this performance solution; and
-3. Reference documents
+ * Reference documents, standards and expert judgements used in evaluating this performance solution: and
+ * Scope of the building design being considered in this performance solution; and
+ * Reference documents
 
 The following table outlines the scope of the proposed performance-based design solution and / or design items that do not meet the Deemed-to-Satisfy provisions of the BCA, as considered in this report:
-
 
 <table>
   <tr>
@@ -587,8 +577,6 @@ P2.2.2.
    </td>
   </tr>
 </table>
-
-
 
 
 ## A. Reference standards and expert judgement
@@ -721,22 +709,23 @@ The following table provides a list of expert judgement evidence cited throughou
   </tr>
 </table>
 
-
-
-
 ## B. Scope of design
 
 The below architectural elevation plans show the distribution of the external wall construction materials across the buildings: (a) timber and glass cladding and wall construction across the north facade of the building; (b) timber framed glazing on the north facade of the building; (c) earthen masonry cladding with glass bottle wall system on the north, east, south and west facades of the building; and, (d) earth retaining structures comprising the southern elevation of the building.
 
-
+![image](https://user-images.githubusercontent.com/146181/209023060-27afd5a4-c4e6-47d2-9ea5-fe4eb8f548f6.png)
 Figure 7.1: Design render of northerly facing facade of building
 
+![image](https://user-images.githubusercontent.com/146181/209023160-0341e90f-d24a-4cf5-970e-caa8aad4d8ff.png)
 Figure 7.2 – North elevation of building facade with timber glazed framing and earthen composite masonry and timber framed glazing.
 
+![image](https://user-images.githubusercontent.com/146181/209023201-9a164cd2-d4c9-4649-ae2e-099126710723.png)
 Figure 7.3 – South elevation of building facade with earthen composite masonry and earth retaining cladding system and drainage.
 
+![image](https://user-images.githubusercontent.com/146181/209023231-f52b0a30-7ab4-41f1-9ba4-e6641cb9a15a.png)
 Figure 7.4 – East elevation of building facade with earthen composite masonry and glass-bottle wall system construction.
 
+![image](https://user-images.githubusercontent.com/146181/209023253-b5cab790-b226-459b-a3b9-21c4d35f18ac.png)
 Figure 7.5 – West elevation of building facade with earthen composite masonry and glass-bottle wall system.
 
 # 5. Performance Design Solution no.1 (PDS1 - Structure)
@@ -817,8 +806,7 @@ Included in this section:
   </tr>
 </table>
 
-
-
+![image](https://user-images.githubusercontent.com/146181/209023281-cdd0336b-e358-45a7-b455-cf38c6d59b8a.png)
 
 ## A. **Trial design used for evaluation**
 
